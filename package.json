@@ -1,0 +1,31 @@
+{
+  "name": "ktrt-gtfs",
+  "version": "1.0.0",
+  "description": "Kaposvar helyi buszmenetrend GTFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPENKaposvar/ktrt-gtfs.git"
+  },
+  "keywords": [
+    "GTFS",
+    "transit",
+    "feed",
+    "bus",
+    "schedule",
+    "Kaposvar",
+    "Hungary"
+  ],
+  "author": "Tamas Csizmadia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OPENKaposvar/ktrt-gtfs/issues"
+  },
+  "homepage": "https://github.com/OPENKaposvar/ktrt-gtfs#readme",
+  "devDependencies": {
+    "gulp-zip": "^3.2.0"
+  }
+}
