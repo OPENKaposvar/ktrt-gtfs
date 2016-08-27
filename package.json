@@ -27,5 +27,6 @@
   "homepage": "https://github.com/OPENKaposvar/ktrt-gtfs#readme",
   "devDependencies": {
     "gulp-zip": "^3.2.0"
-  }
+  },
+  "dependencies": {}
 }

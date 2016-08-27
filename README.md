@@ -4,7 +4,7 @@ A [General Transit Feed Specification (GTFS)](https://developers.google.com/tran
 
 ## A Projekt Célja
 
-Kaposváron egy cég lát el a tömegközlekedéssel kapcsolatos szolgáltatásokat, a [Kaposvári Tömegközlekedési Zrt.](http://ktrt.hu). Járatinformációkat GTFS-formátumban nem tesz közzé - ezt a hiányosságot szeretnénk pótolni. Az ilyesformán közzétett információkat különféle térinformatikai rendszerek, útvonaltervező szoftverek, menetrendi adatbázisok használhatják fel. 
+Kaposváron egy cég lát el a tömegközlekedéssel kapcsolatos szolgáltatásokat, a [Kaposvári Tömegközlekedési Zrt.](http://ktrt.hu). Járatinformációkat GTFS-formátumban nem tesz közzé - ezt a hiányosságot szeretnénk pótolni. Az ilyesformán közzétett információkat különféle térinformatikai rendszerek, útvonaltervező szoftverek, menetrendi adatbázisok használhatják fel.
 
 ## A Feedről
 
@@ -24,3 +24,7 @@ A *GTFS feed* több szöveges állományból tevődik össze, melyeket egy ZIP-�
 * trips.txt
 * stop_times.txt
 * feed_info.txt
+
+## Google GTFS Feed Validator
+
+A *GTFS validációhoz* a [Google Transitfeed projekt](https://github.com/google/transitfeed/wiki/FeedValidator) `feedvalidator` eszközét használjuk fel, melynek felhasználási feltételeire az [Apache Software Foundation Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)-ban foglaltak vonatkoznak!
