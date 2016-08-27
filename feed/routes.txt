@@ -1,0 +1,24 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+1,"1","Raktar","Helyi autóbusz-állomás és Raktár u. között",3
+2,"10","Laktanya","Helyi autóbusz-állomás és Laktanya között",3
+3,"11","Kaposfured","Helyi autóbusz-állomás és Kaposfüred va. között",3
+4,"11Y","KaposfuredY","Helyi autóbusz-állomás és Kaposfüred va. között",3
+5,"12","Sopron","Helyi autóbusz-állomás és Sopron u. között",3
+6,"13","Matyas","Helyi autóbusz-állomás és Mátyás K. u. között",3
+7,"14","Torocske","Helyi autóbusz-állomás és Töröcske, forduló között",3
+8,"15","Lonkahegy","Helyi autóbusz-állomás és Lonkahegy között",3
+9,"18","SzaboP","Helyi autóbusz-állomás és Toponár, Szabó P. u. között",3
+10,"20","Videoton","Helyi autóbusz-állomás és Videoton között",3
+11,"20A","VideotonA","Helyi autóbusz-állomás és Videoton között",3
+12,"23","Egyetem","Helyi autóbusz-állomás és Kaposvári Egyetem között",3
+13,"3","Egyenesi","Helyi autóbusz-állomás és Egyenesi. u. forduló között",3
+14,"31","Matyas2","Helyi autóbusz-állomás és Mátyás K. u. között",3
+15,"4","Koppany","Helyi autóbusz-állomás és Koppány vezér u. között",3
+16,"6","BelaK","Helyi autóbusz-állomás és Béla Király u. között",3
+17,"7","Szentjakab","Helyi autóbusz-állomás és Kaposszentjakab, forduló között",3
+18,"8","Toponar","Helyi autóbusz-állomás és Toponár, forduló között",3
+19,"8B","EgyetemB","Helyi autóbusz-állomás és Kaposvári Egyetem között",3
+20,"8E","Nabi","Helyi autóbusz-állomás és NABI között",3
+21,"8Y","VideotonY","Helyi autóbusz-állomás és Videoton között",3
+22,"9","AranyJ","Helyi autóbusz-állomás és Arany János tér között",3
+23,"91","Furedi","Helyi autóbusz-állomás és Füredi u. csp. között",3
