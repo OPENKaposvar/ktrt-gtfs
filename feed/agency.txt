@@ -1,0 +1,2 @@
+agency_id, agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+KTZrt,Kaposvári Tömegközlekedési Zrt.,http://kaposbusz.hu,Europe/Budapest,+36(82)411 750,hu
