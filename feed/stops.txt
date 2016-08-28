@@ -1,4 +1,4 @@
-stop_id,stop_name,stop_desc,stop_lat,stop_lon
+stop_id,stop_name,stop_desc,stop_lon,stop_lat
 101,"Helyi autóbusz-állomás","",17.790058,46.353944
 102,"Helyi autóbusz-állomás","",17.79013,46.353851
 103,"Helyi autóbusz-állomás","",17.790559,46.353864
