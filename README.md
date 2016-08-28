@@ -17,13 +17,22 @@ A *GTFS feed* több szöveges állományból tevődik össze, melyeket egy ZIP-�
 * agency.txt
 * calendar.txt
 * routes.txt
+* stops.txt
 
 ### Ami vissza van:
 
-* stops.txt
 * trips.txt
 * stop_times.txt
 * feed_info.txt
+
+## Felhasználási területek
+A kész feedet - melyet az [OPEN Kaposvár](https://openkaposvar.github.io) oldalán publikálunk majd - többféleképpen hasznosíthatjuk.
+
+### Online menetrend, útvonaltervezés
+Bár a [KT Zrt.](http://ktrt.hu) honlapján található online menetrend és útvonaltervező is, használata (főként mobil eszközről) nehézkes, sokszor instabil. Terveink között szerepel egy referencia web-, illetve mobil-alkalmazás elkészítése.
+
+### Térinformatikai (GIS) alkalmazások
+Térinformatikai analízishez, vizualizációhoz, stb.
 
 ## Google GTFS Feed Validator
 
