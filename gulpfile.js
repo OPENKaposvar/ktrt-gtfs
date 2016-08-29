@@ -13,11 +13,7 @@ var gulp = require('gulp'),
 gulp.task('validate', function(cb) {
   exec("python", ['validator/feedvalidator.py', '-n', '-o', 'validator/report.html', 'feed/'], function(err, stdout, stderr) {
     if ((err !== null) || (stdout.indexOf("ERROR:") !== -1)) {
-      var lines = stdout.split("\n");
-
-      for (currentLine of lines) {
-        util.log(currentLine);
-      }
+      stdout.split("\n").forEach((line) => util.log(line));
 
       cb("GTFS feed validation failed!");
     }
