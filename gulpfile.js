@@ -6,13 +6,19 @@ var gulp = require('gulp'),
   zip = require('gulp-zip'),
   exec = require('child_process').execFile,
   fileProcess = require('gulp-file-process'),
+  util = require('gulp-util'),
   gtfs2geojson = require('gtfs2geojson'),
   fs = require('fs');
 
 gulp.task('validate', function(cb) {
   exec("python", ['validator/feedvalidator.py', '-n', '-o', 'validator/report.html', 'feed/'], function(err, stdout, stderr) {
     if ((err !== null) || (stdout.indexOf("ERROR:") !== -1)) {
-      console.error(stdout);
+      var lines = stdout.split("\n");
+
+      for (currentLine of lines) {
+        util.log(currentLine);
+      }
+
       cb("GTFS feed validation failed!");
     }
   });
@@ -32,6 +38,8 @@ gulp.task('geojson', function(cb) {
         fs.writeFileSync('geojson/stops.geojson', JSON.stringify(result, null, 2));
       }
     }));
+
+    return cb();
 });
 
 gulp.task('default', function() {
