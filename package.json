@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/OPENKaposvar/ktrt-gtfs#readme",
   "devDependencies": {
+    "gtfs2geojson": "^2.0.0",
+    "gulp-file-process": "^1.0.1",
     "gulp-zip": "^3.2.0"
   },
   "dependencies": {}
