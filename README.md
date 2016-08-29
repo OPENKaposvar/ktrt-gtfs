@@ -17,7 +17,7 @@ A *GTFS feed* több szöveges állományból tevődik össze, melyeket egy ZIP-�
 * agency.txt
 * calendar.txt
 * routes.txt
-* stops.txt
+* stops.txt (by @petersx7)
 
 ### Ami vissza van:
 
