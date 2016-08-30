@@ -8,10 +8,18 @@ var gulp = require('gulp'),
   fileProcess = require('gulp-file-process'),
   util = require('gulp-util'),
   gtfs2geojson = require('gtfs2geojson'),
-  fs = require('fs');
+  fs = require('fs'),
+  del = require('del');
+
+gulp.task('clean', function() {
+    return del([
+      'dist/**/*',
+      'geojson/**/*'
+    ]);
+});
 
 gulp.task('validate', function(cb) {
-  exec("python", ['validator/feedvalidator.py', '-n', '-o', 'validator/report.html', 'feed/'], function(err, stdout, stderr) {
+  exec("python", ['validator/feedvalidator.py', '-n', '-o', 'dist/validator-report.html', 'feed/'], function(err, stdout, stderr) {
     if ((err !== null) || (stdout.indexOf("ERROR:") !== -1)) {
       stdout.split("\n").forEach((line) => util.log(line));
 
@@ -39,5 +47,5 @@ gulp.task('geojson', function(cb) {
 });
 
 gulp.task('default', function() {
-  gulp.start('validate', 'package');
+  gulp.start('validate', 'clean', 'package');
 });
