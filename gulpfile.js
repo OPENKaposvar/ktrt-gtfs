@@ -28,6 +28,8 @@ gulp.task('validate', function(cb) {
     if (stdout.indexOf(" warning") !== -1) {
       util.log("Validation passed but warnings occured. See dist/validator-report.html for details!");
     }
+
+    return cb();
   });
 });
 
