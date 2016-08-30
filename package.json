@@ -30,6 +30,7 @@
     "gtfs2geojson": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-file-process": "^1.0.1",
+    "gulp-open": "^2.0.0",
     "gulp-util": "^3.0.7",
     "gulp-zip": "^3.2.0"
   }

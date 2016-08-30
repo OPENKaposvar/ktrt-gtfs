@@ -7,6 +7,7 @@ var gulp = require('gulp'),
   exec = require('child_process').execFile,
   fileProcess = require('gulp-file-process'),
   util = require('gulp-util'),
+  open = require('gulp-open'),
   gtfs2geojson = require('gtfs2geojson'),
   fs = require('fs'),
   del = require('del');
@@ -19,17 +20,18 @@ gulp.task('clean', function() {
 });
 
 gulp.task('validate', function(cb) {
+  var errorMsg = null;
+
   exec("python", ['validator/feedvalidator.py', '-n', '-o', 'dist/validator-report.html', 'feed/'], function(err, stdout, stderr) {
     if (stdout.indexOf(" error") !== -1) {
       stdout.split("\n").forEach((line) => util.log(line));
-      cb("GTFS feed validation failed!");
-    }
-
-    if (stdout.indexOf(" warning") !== -1) {
+      errorMsg = "GTFS feed validation failed!";
+    } else if (stdout.indexOf(" warning") !== -1) {
       util.log("Validation passed but warnings occured. See dist/validator-report.html for details!");
     }
 
-    return cb();
+    gulp.src('dist/validator-report.html').pipe(open());
+    return cb(errorMsg);
   });
 });
 
