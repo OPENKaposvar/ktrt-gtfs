@@ -8,6 +8,7 @@ var gulp = require('gulp'),
   fileProcess = require('gulp-file-process'),
   util = require('gulp-util'),
   open = require('gulp-open'),
+  concat = require('gulp-concat'),
   gtfs2geojson = require('gtfs2geojson'),
   fs = require('fs'),
   del = require('del');
@@ -17,6 +18,16 @@ gulp.task('clean', function() {
       'dist/**/*',
       'geojson/**/*'
     ]);
+});
+
+gulp.task('combine', function() {
+  return gulp
+    .src([
+      './feed/headers/shapes.txt',
+      './feed/partials/shapes_*.txt'
+    ])
+    .pipe(concat('shapes.txt'))
+    .pipe(gulp.dest('./feed/'));
 });
 
 gulp.task('validate', function(cb) {
