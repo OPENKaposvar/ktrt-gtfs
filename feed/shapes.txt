@@ -1,4 +1,4 @@
-shape_id,shape_pt_sequence,shape_pt_lon,shape_pt_lan
+shape_id,shape_pt_sequence,shape_pt_lon,shape_pt_lat
 00001,101,17.792109975872,46.353548509466
 00001,102,17.791997713946,46.353556748841
 00001,103,17.791874801062,46.353569016626
