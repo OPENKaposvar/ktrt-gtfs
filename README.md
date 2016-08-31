@@ -24,6 +24,7 @@ A *GTFS feed* több szöveges állományból tevődik össze, melyeket egy ZIP-�
 * trips.txt _- folyamatban_
 * stop_times.txt _- folyamatban_
 * feed_info.txt _- folyamatban_
+* shapes.txt _- folyamatban_
 
 ## Felhasználási területek
 A kész feedet - melyet az [OPEN Kaposvár](https://openkaposvar.github.io) oldalán publikálunk majd - többféleképpen hasznosíthatjuk.
