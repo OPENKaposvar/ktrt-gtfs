@@ -61,6 +61,14 @@ gulp.task('geojson', function(cb) {
       }
     }));
 
+    gulp.src('feed/shapes.txt')
+      .pipe(fileProcess({
+        process: function(file, content) {
+          var result = gtfs2geojson.lines(content);
+          fs.writeFileSync('geojson/lines.geojson', JSON.stringify(result, null, 2));
+        }
+      }));
+
     return cb();
 });
 
