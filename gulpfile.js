@@ -23,8 +23,8 @@ gulp.task('clean', function() {
 gulp.task('combine', function() {
   return gulp
     .src([
-      './feed/headers/shapes.txt',
-      './feed/partials/shapes_*.txt'
+      './partials/headers/shapes.txt',
+      './partials/shapes_*.txt'
     ])
     .pipe(concat('shapes.txt'))
     .pipe(gulp.dest('./feed/'));
