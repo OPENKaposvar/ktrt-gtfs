@@ -1,4 +1,5 @@
 # GTFS Statikus Feed Kaposvár Helyi Buszjárataihoz
+![Travis CI status](https://travis-ci.org/OPENKaposvar/ktrt-gtfs.svg?branch=develop)
 
 A [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) gépek által értelmezhető szöveges álományok összessége, melynek segítségével különféle szolgáltatások, alkalmazások dolgozhatnak tömegközlekedési szolgáltatók menetrendi adataival.
 
