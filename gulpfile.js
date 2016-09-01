@@ -30,7 +30,7 @@ gulp.task('combine', function() {
     .pipe(gulp.dest('./feed/'));
 });
 
-gulp.task('validate', function(cb) {
+gulp.task('validate', ['combine'], function(cb) {
   var errorMsg = null;
 
   exec("python", ['validator/feedvalidator.py', '-n', '-o', 'dist/validator-report.html', 'feed/'], function(err, stdout, stderr) {
@@ -52,7 +52,7 @@ gulp.task('package', ['validate'], function() {
       .pipe(gulp.dest('dist'));
 });
 
-gulp.task('geojson', function(cb) {
+gulp.task('geojson', ['validate'], function(cb) {
   gulp.src('feed/stops.txt')
     .pipe(fileProcess({
       process: function(file, content) {
@@ -73,5 +73,5 @@ gulp.task('geojson', function(cb) {
 });
 
 gulp.task('default', function() {
-  gulp.start('validate', 'clean', 'package');
+  gulp.start('clean', 'combine', 'validate', 'package', 'geojson');
 });
