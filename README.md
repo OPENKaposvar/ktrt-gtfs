@@ -1,41 +1,22 @@
-# GTFS Statikus Feed Kaposvár Helyi Buszjárataihoz
+# GTFS Static Feed for Local Bus Services of Kaposvár City
 ![Travis CI status](https://travis-ci.org/OPENKaposvar/ktrt-gtfs.svg?branch=develop)
 
-A [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) gépek által értelmezhető szöveges álományok összessége, melynek segítségével különféle szolgáltatások, alkalmazások dolgozhatnak tömegközlekedési szolgáltatók menetrendi adataival.
+_Read this in another languages: [magyar](README.hu.md)._
 
-## A Projekt Célja
+With [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/) we can generate machine-readable files to describe local public transportation services, such as _routes, schedules, fares_ and so on.
 
-Kaposváron egy cég lát el a tömegközlekedéssel kapcsolatos szolgáltatásokat, a [Kaposvári Tömegközlekedési Zrt.](http://ktrt.hu). Járatinformációkat GTFS-formátumban nem tesz közzé - ezt a hiányosságot szeretnénk pótolni. Az ilyesformán közzétett információkat különféle térinformatikai rendszerek, útvonaltervező szoftverek, menetrendi adatbázisok használhatják fel.
+## Purpose of the project
 
-## A Feedről
+Kaposvár city's only public transportation agency is [Kaposvári Tömegközlekedési Zrt.](http://ktrt.hu). At this moment they does not provide service data in GTFS format.
+Our mission is to create a standards-based GTFS feed for online schedules, route planning utilities, GIS analytics, etc.
 
-A *GTFS feed* több szöveges állományból tevődik össze, melyeket egy ZIP-állományban teszünk közzé. A különféle alkalmazásoknak ezt az URL-t kell megadni, hogy hozzáférhessenek az információkhoz.
+## Current state
 
-## A Projekt Állapota
+Still warming up - no releases are available yet. You can switch to _devel_ branch to get a sneak peek of how things are going.
+_Suggestions, questions are welcome, just open a new issue if you have something to say, or ask!_
 
-### A következő állományok vannak kész:
+## Useful links
 
-* agency.txt
-* calendar.txt
-* routes.txt
-* stops.txt (by @petersx7)
-
-### Ami vissza van:
-
-* trips.txt _- folyamatban_
-* stop_times.txt _- folyamatban_
-* feed_info.txt _- folyamatban_
-* shapes.txt _- folyamatban_
-
-## Felhasználási területek
-A kész feedet - melyet az [OPEN Kaposvár](https://openkaposvar.github.io) oldalán publikálunk majd - többféleképpen hasznosíthatjuk.
-
-### Online menetrend, útvonaltervezés
-Bár a [KT Zrt.](http://ktrt.hu) honlapján található online menetrend és útvonaltervező is, használata (főként mobil eszközről) nehézkes, sokszor instabil. Terveink között szerepel egy referencia web-, illetve mobil-alkalmazás elkészítése.
-
-### Térinformatikai (GIS) alkalmazások
-Térinformatikai analízishez, vizualizációhoz, stb.
-
-## Google GTFS Feed Validator
-
-A *GTFS validációhoz* a [Google Transitfeed projekt](https://github.com/google/transitfeed/wiki/FeedValidator) `feedvalidator` eszközét használjuk fel, melynek felhasználási feltételeire az [Apache Software Foundation Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)-ban foglaltak vonatkoznak!
+* [GTFS Specification](https://developers.google.com/transit/gtfs/reference/) - _by Google Developers_
+* [Homepage of KT Zrt.](http://kaposbusz.hu/?lang=ENG) - _official website_
+* [transitland](https://transit.land/) - _community-edited repository for transit feeds sponsored by MapZen_
