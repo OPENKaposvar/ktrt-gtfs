@@ -11,5 +11,11 @@ Our mission is to create a standards-based GTFS feed for online schedules, route
 
 ## Current state
 
-Still warming up - now releases are available yet. You can switch to _devel_ branch to get a sneak peek of how things are going.
+Still warming up - no releases are available yet. You can switch to _devel_ branch to get a sneak peek of how things are going.
 _Suggestions, questions are welcome, just open a new issue if you have something to say, or ask!_
+
+## Useful links
+
+* [GTFS Specification](https://developers.google.com/transit/gtfs/reference/) - _by Google Developers_
+* [Homepage of KT Zrt.](http://kaposbusz.hu/?lang=ENG) - _official website_
+* [transitland](https://transit.land/) - _community-edited repository for transit feeds sponsored by MapZen_
