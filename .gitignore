@@ -1,0 +1,4 @@
+node_modules
+dist/*
+validator/report.html
+validator/transitfeed/*.pyc

@@ -1,4 +1,5 @@
 # GTFS Static Feed for Local Bus Services of Kaposvár City
+![Travis CI status](https://travis-ci.org/OPENKaposvar/ktrt-gtfs.svg?branch=develop)
 
 _Read this in another languages: [magyar](README.hu.md)._
 

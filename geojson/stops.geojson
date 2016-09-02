@@ -1,0 +1,3785 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "101",
+      "properties": {
+        "stop_id": "101",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790058,
+          46.353944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "102",
+      "properties": {
+        "stop_id": "102",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79013,
+          46.353851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "103",
+      "properties": {
+        "stop_id": "103",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790559,
+          46.353864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "104",
+      "properties": {
+        "stop_id": "104",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79098,
+          46.353708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "105",
+      "properties": {
+        "stop_id": "105",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.791053,
+          46.353758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "106",
+      "properties": {
+        "stop_id": "106",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.791378,
+          46.353631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "107",
+      "properties": {
+        "stop_id": "107",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.791546,
+          46.353674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "108",
+      "properties": {
+        "stop_id": "108",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79171,
+          46.353564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "109",
+      "properties": {
+        "stop_id": "109",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79211,
+          46.353549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "110",
+      "properties": {
+        "stop_id": "110",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79209,
+          46.353484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "111",
+      "properties": {
+        "stop_id": "111",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.792456,
+          46.353408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "112",
+      "properties": {
+        "stop_id": "112",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.793026,
+          46.353295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "120",
+      "properties": {
+        "stop_id": "120",
+        "stop_name": "Helyi autóbusz-állomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7933612,
+          46.353366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "201",
+      "properties": {
+        "stop_id": "201",
+        "stop_name": "Berzsenyi u. felüljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.785368,
+          46.356496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "202",
+      "properties": {
+        "stop_id": "202",
+        "stop_name": "Berzsenyi u. felüljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784656,
+          46.355323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "203",
+      "properties": {
+        "stop_id": "203",
+        "stop_name": "Berzsenyi u. felüljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784867,
+          46.355406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "204",
+      "properties": {
+        "stop_id": "204",
+        "stop_name": "Berzsenyi u. felüljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.785847,
+          46.355098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "801",
+      "properties": {
+        "stop_id": "801",
+        "stop_name": "Füredi u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.781451,
+          46.363761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "802",
+      "properties": {
+        "stop_id": "802",
+        "stop_name": "Füredi u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782521,
+          46.363155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "803",
+      "properties": {
+        "stop_id": "803",
+        "stop_name": "Füredi u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78242,
+          46.364555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "804",
+      "properties": {
+        "stop_id": "804",
+        "stop_name": "Füredi u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783323,
+          46.36394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1201",
+      "properties": {
+        "stop_id": "1201",
+        "stop_name": "Városi könyvtár"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.776984,
+          46.36313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1202",
+      "properties": {
+        "stop_id": "1202",
+        "stop_name": "Városi könyvtár"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779185,
+          46.363396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1401",
+      "properties": {
+        "stop_id": "1401",
+        "stop_name": "Vasútköz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.770321,
+          46.363941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1402",
+      "properties": {
+        "stop_id": "1402",
+        "stop_name": "Vasútköz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.770503,
+          46.363737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1601",
+      "properties": {
+        "stop_id": "1601",
+        "stop_name": "Hajnóczy u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.765327,
+          46.366725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1602",
+      "properties": {
+        "stop_id": "1602",
+        "stop_name": "Hajnóczy u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.765124,
+          46.366737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1603",
+      "properties": {
+        "stop_id": "1603",
+        "stop_name": "Hajnóczy u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763714,
+          46.366094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1604",
+      "properties": {
+        "stop_id": "1604",
+        "stop_name": "Hajnóczy u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.765918,
+          46.365568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2701",
+      "properties": {
+        "stop_id": "2701",
+        "stop_name": "Raktár u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.769202,
+          46.379373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2901",
+      "properties": {
+        "stop_id": "2901",
+        "stop_name": "Tompa M. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.778585,
+          46.353738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2902",
+      "properties": {
+        "stop_id": "2902",
+        "stop_name": "Tompa M. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77867,
+          46.353673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3101",
+      "properties": {
+        "stop_id": "3101",
+        "stop_name": "Kölcsey u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.774299,
+          46.352766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3102",
+      "properties": {
+        "stop_id": "3102",
+        "stop_name": "Kölcsey u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.774628,
+          46.352779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3501",
+      "properties": {
+        "stop_id": "3501",
+        "stop_name": "Eger u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.767928,
+          46.348416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3502",
+      "properties": {
+        "stop_id": "3502",
+        "stop_name": "Eger u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.768143,
+          46.348267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3701",
+      "properties": {
+        "stop_id": "3701",
+        "stop_name": "Kapoli A. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76328,
+          46.347673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3702",
+      "properties": {
+        "stop_id": "3702",
+        "stop_name": "Kapoli A. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76334,
+          46.347351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3901",
+      "properties": {
+        "stop_id": "3901",
+        "stop_name": "Egyenesi u. 42."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763222,
+          46.345199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3902",
+      "properties": {
+        "stop_id": "3902",
+        "stop_name": "Egyenesi u. 42."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763348,
+          46.345322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4101",
+      "properties": {
+        "stop_id": "4101",
+        "stop_name": "Egyenesi u. forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763483,
+          46.339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4401",
+      "properties": {
+        "stop_id": "4401",
+        "stop_name": "Kecelhegyi iskola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.765594,
+          46.353505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4501",
+      "properties": {
+        "stop_id": "4501",
+        "stop_name": "67-es sz. út"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782719,
+          46.351172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4502",
+      "properties": {
+        "stop_id": "4502",
+        "stop_name": "67-es sz. út"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78189,
+          46.350693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4801",
+      "properties": {
+        "stop_id": "4801",
+        "stop_name": "Gönczi F. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.774572,
+          46.344759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4901",
+      "properties": {
+        "stop_id": "4901",
+        "stop_name": "Koppány vezér u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.771347,
+          46.345096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5001",
+      "properties": {
+        "stop_id": "5001",
+        "stop_name": "Bartók B. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790428,
+          46.351489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5002",
+      "properties": {
+        "stop_id": "5002",
+        "stop_name": "Bartók B. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790546,
+          46.351467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5401",
+      "properties": {
+        "stop_id": "5401",
+        "stop_name": "Táncsics M. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787405,
+          46.345626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5402",
+      "properties": {
+        "stop_id": "5402",
+        "stop_name": "Táncsics M. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787425,
+          46.345522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5601",
+      "properties": {
+        "stop_id": "5601",
+        "stop_name": "Zichy u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789208,
+          46.34163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5602",
+      "properties": {
+        "stop_id": "5602",
+        "stop_name": "Zichy u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789026,
+          46.3421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6001",
+      "properties": {
+        "stop_id": "6001",
+        "stop_name": "Gyertyános"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789377,
+          46.33031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6002",
+      "properties": {
+        "stop_id": "6002",
+        "stop_name": "Gyertyános"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789526,
+          46.330201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6401",
+      "properties": {
+        "stop_id": "6401",
+        "stop_name": "Kertbarát alsó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784776,
+          46.320042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6402",
+      "properties": {
+        "stop_id": "6402",
+        "stop_name": "Kertbarát alsó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784824,
+          46.320183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6803",
+      "properties": {
+        "stop_id": "6803",
+        "stop_name": "Fenyves u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782573,
+          46.308356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6804",
+      "properties": {
+        "stop_id": "6804",
+        "stop_name": "Fenyves u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782519,
+          46.308382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7401",
+      "properties": {
+        "stop_id": "7401",
+        "stop_name": "Töröcske, forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.781657,
+          46.302467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7501",
+      "properties": {
+        "stop_id": "7501",
+        "stop_name": "Jókai liget"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.791014,
+          46.351286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7502",
+      "properties": {
+        "stop_id": "7502",
+        "stop_name": "Jókai liget"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.791455,
+          46.352373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8101",
+      "properties": {
+        "stop_id": "8101",
+        "stop_name": "Ballakúti u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.799174,
+          46.34218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8102",
+      "properties": {
+        "stop_id": "8102",
+        "stop_name": "Ballakúti u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.800221,
+          46.341428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8301",
+      "properties": {
+        "stop_id": "8301",
+        "stop_name": "Szigetvári u. 139."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.801639,
+          46.339931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8302",
+      "properties": {
+        "stop_id": "8302",
+        "stop_name": "Szigetvári u. 139."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.802034,
+          46.339573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8501",
+      "properties": {
+        "stop_id": "8501",
+        "stop_name": "Nyár u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.806874,
+          46.340344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8502",
+      "properties": {
+        "stop_id": "8502",
+        "stop_name": "Nyár u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.806771,
+          46.340306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8701",
+      "properties": {
+        "stop_id": "8701",
+        "stop_name": "Lonkahegy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.810014,
+          46.341027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8702",
+      "properties": {
+        "stop_id": "8702",
+        "stop_name": "Lonkahegy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.809848,
+          46.341065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8801",
+      "properties": {
+        "stop_id": "8801",
+        "stop_name": "Vasútállomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79618,
+          46.352878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8901",
+      "properties": {
+        "stop_id": "8901",
+        "stop_name": "Baross G. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.803303,
+          46.352847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8902",
+      "properties": {
+        "stop_id": "8902",
+        "stop_name": "Baross G. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.800349,
+          46.352915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9101",
+      "properties": {
+        "stop_id": "9101",
+        "stop_name": "Csalogány u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.808594,
+          46.351162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9102",
+      "properties": {
+        "stop_id": "9102",
+        "stop_name": "Csalogány u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80918,
+          46.351172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9501",
+      "properties": {
+        "stop_id": "9501",
+        "stop_name": "Béla király u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.815058,
+          46.348333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9801",
+      "properties": {
+        "stop_id": "9801",
+        "stop_name": "Hársfa u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.802077,
+          46.357184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9802",
+      "properties": {
+        "stop_id": "9802",
+        "stop_name": "Hársfa u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.800953,
+          46.357196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10401",
+      "properties": {
+        "stop_id": "10401",
+        "stop_name": "Gyár u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.815205,
+          46.356706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10402",
+      "properties": {
+        "stop_id": "10402",
+        "stop_name": "Gyár u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.814504,
+          46.356994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10601",
+      "properties": {
+        "stop_id": "10601",
+        "stop_name": "Pécsi úti iskola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.818576,
+          46.356128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10602",
+      "properties": {
+        "stop_id": "10602",
+        "stop_name": "Pécsi úti iskola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.819933,
+          46.356001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10801",
+      "properties": {
+        "stop_id": "10801",
+        "stop_name": "Nádasdi u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.826831,
+          46.354608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10802",
+      "properties": {
+        "stop_id": "10802",
+        "stop_name": "Nádasdi u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.825069,
+          46.355052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10803",
+      "properties": {
+        "stop_id": "10803",
+        "stop_name": "Nádasdi u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.826073,
+          46.354383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11001",
+      "properties": {
+        "stop_id": "11001",
+        "stop_name": "Móricz Zs. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.836474,
+          46.354287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11002",
+      "properties": {
+        "stop_id": "11002",
+        "stop_name": "Móricz Zs. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.835344,
+          46.353841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11201",
+      "properties": {
+        "stop_id": "11201",
+        "stop_name": "Pécsi u. 227."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.840157,
+          46.357595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11202",
+      "properties": {
+        "stop_id": "11202",
+        "stop_name": "Pécsi u. 227."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.839656,
+          46.357395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11401",
+      "properties": {
+        "stop_id": "11401",
+        "stop_name": "Várhegy feljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.843785,
+          46.359294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11402",
+      "properties": {
+        "stop_id": "11402",
+        "stop_name": "Várhegy feljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.843652,
+          46.359303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11601",
+      "properties": {
+        "stop_id": "11601",
+        "stop_name": "Kaposszentjakab, forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.847299,
+          46.359488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11701",
+      "properties": {
+        "stop_id": "11701",
+        "stop_name": "Hold u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.834631,
+          46.34637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12901",
+      "properties": {
+        "stop_id": "12901",
+        "stop_name": "Villamossági Gyár"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.823763,
+          46.377725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12902",
+      "properties": {
+        "stop_id": "12902",
+        "stop_name": "Villamossági Gyár"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.823592,
+          46.377626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13201",
+      "properties": {
+        "stop_id": "13201",
+        "stop_name": "Kaposvári Egyetem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.825316,
+          46.383796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13202",
+      "properties": {
+        "stop_id": "13202",
+        "stop_name": "Kaposvári Egyetem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.824945,
+          46.382838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13203",
+      "properties": {
+        "stop_id": "13203",
+        "stop_name": "Kaposvári Egyetem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.826036,
+          46.384577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13501",
+      "properties": {
+        "stop_id": "13501",
+        "stop_name": "Toponár, posta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.827726,
+          46.390549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13502",
+      "properties": {
+        "stop_id": "13502",
+        "stop_name": "Toponár, posta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.828108,
+          46.391347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13701",
+      "properties": {
+        "stop_id": "13701",
+        "stop_name": "Toponár, Orci elágazás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.833526,
+          46.394289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13702",
+      "properties": {
+        "stop_id": "13702",
+        "stop_name": "Toponár, Orci elágazás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.833854,
+          46.395885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13703",
+      "properties": {
+        "stop_id": "13703",
+        "stop_name": "Toponár, Orci elágazás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.834408,
+          46.394729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14401",
+      "properties": {
+        "stop_id": "14401",
+        "stop_name": "Toponár, forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.83678,
+          46.40784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14601",
+      "properties": {
+        "stop_id": "14601",
+        "stop_name": "Toponár, Erdei F. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.845347,
+          46.396206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14701",
+      "properties": {
+        "stop_id": "14701",
+        "stop_name": "Toponár, Szabó P. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.844537,
+          46.392561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14801",
+      "properties": {
+        "stop_id": "14801",
+        "stop_name": "Kisgát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.808726,
+          46.365055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14802",
+      "properties": {
+        "stop_id": "14802",
+        "stop_name": "Kisgát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.807489,
+          46.365524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15001",
+      "properties": {
+        "stop_id": "15001",
+        "stop_name": "Pázmány P. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79889,
+          46.365032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15002",
+      "properties": {
+        "stop_id": "15002",
+        "stop_name": "Pázmány P. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79845,
+          46.365192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15301",
+      "properties": {
+        "stop_id": "15301",
+        "stop_name": "Szent Imre u. 29."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.793902,
+          46.361621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15401",
+      "properties": {
+        "stop_id": "15401",
+        "stop_name": "Szent Imre u. 13."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.793884,
+          46.360185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15501",
+      "properties": {
+        "stop_id": "15501",
+        "stop_name": "Széchenyi tér"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.794205,
+          46.356928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15901",
+      "properties": {
+        "stop_id": "15901",
+        "stop_name": "Videoton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.820901,
+          46.363915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15902",
+      "properties": {
+        "stop_id": "15902",
+        "stop_name": "Videoton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.820738,
+          46.364033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16301",
+      "properties": {
+        "stop_id": "16301",
+        "stop_name": "NABI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.848907,
+          46.365015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16401",
+      "properties": {
+        "stop_id": "16401",
+        "stop_name": "Virág u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.803876,
+          46.358415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16402",
+      "properties": {
+        "stop_id": "16402",
+        "stop_name": "Virág u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.803739,
+          46.358738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16601",
+      "properties": {
+        "stop_id": "16601",
+        "stop_name": "Pázmány P. u. 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.801273,
+          46.361025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16602",
+      "properties": {
+        "stop_id": "16602",
+        "stop_name": "Pázmány P. u. 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.801309,
+          46.360908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16801",
+      "properties": {
+        "stop_id": "16801",
+        "stop_name": "Vöröstelek u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.799969,
+          46.364167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16802",
+      "properties": {
+        "stop_id": "16802",
+        "stop_name": "Vöröstelek u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.799876,
+          46.364332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17001",
+      "properties": {
+        "stop_id": "17001",
+        "stop_name": "Hegyi u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797868,
+          46.367666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17002",
+      "properties": {
+        "stop_id": "17002",
+        "stop_name": "Hegyi u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797766,
+          46.36765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17201",
+      "properties": {
+        "stop_id": "17201",
+        "stop_name": "Buzsáki u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.792329,
+          46.36795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17202",
+      "properties": {
+        "stop_id": "17202",
+        "stop_name": "Buzsáki u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.792373,
+          46.367887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17401",
+      "properties": {
+        "stop_id": "17401",
+        "stop_name": "Arany J. tér"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.788469,
+          46.366567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17402",
+      "properties": {
+        "stop_id": "17402",
+        "stop_name": "Arany J. tér"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.788359,
+          46.366854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17403",
+      "properties": {
+        "stop_id": "17403",
+        "stop_name": "Arany J. tér"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790234,
+          46.367598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17701",
+      "properties": {
+        "stop_id": "17701",
+        "stop_name": "Arany J. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.784484,
+          46.366787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17801",
+      "properties": {
+        "stop_id": "17801",
+        "stop_name": "Tallián Gy. u. 4."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797291,
+          46.357141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17901",
+      "properties": {
+        "stop_id": "17901",
+        "stop_name": "Kórház"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7973,
+          46.360169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18001",
+      "properties": {
+        "stop_id": "18001",
+        "stop_name": "Tallián Gy. u. 56."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797222,
+          46.362756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18101",
+      "properties": {
+        "stop_id": "18101",
+        "stop_name": "Tallián Gy. u. 82."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797217,
+          46.364619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18701",
+      "properties": {
+        "stop_id": "18701",
+        "stop_name": "Búzavirág u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.781881,
+          46.375821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18702",
+      "properties": {
+        "stop_id": "18702",
+        "stop_name": "Búzavirág u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.781886,
+          46.374775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18901",
+      "properties": {
+        "stop_id": "18901",
+        "stop_name": "Laktanya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.781317,
+          46.378908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18902",
+      "properties": {
+        "stop_id": "18902",
+        "stop_name": "Laktanya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.781169,
+          46.378415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19101",
+      "properties": {
+        "stop_id": "19101",
+        "stop_name": "Volán-telep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779282,
+          46.390375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19102",
+      "properties": {
+        "stop_id": "19102",
+        "stop_name": "Volán-telep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779156,
+          46.389628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19701",
+      "properties": {
+        "stop_id": "19701",
+        "stop_name": "Kaposfüred, központ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.778271,
+          46.413967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19702",
+      "properties": {
+        "stop_id": "19702",
+        "stop_name": "Kaposfüred, központ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.778464,
+          46.412996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19703",
+      "properties": {
+        "stop_id": "19703",
+        "stop_name": "Kaposfüred, központ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.777457,
+          46.413473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20001",
+      "properties": {
+        "stop_id": "20001",
+        "stop_name": "Kaposfüred, forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.775467,
+          46.42303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20201",
+      "properties": {
+        "stop_id": "20201",
+        "stop_name": "Kaposfüred, vá."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.759442,
+          46.41415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20301",
+      "properties": {
+        "stop_id": "20301",
+        "stop_name": "Zárda u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787703,
+          46.358802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20401",
+      "properties": {
+        "stop_id": "20401",
+        "stop_name": "Honvéd u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787993,
+          46.363158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20402",
+      "properties": {
+        "stop_id": "20402",
+        "stop_name": "Honvéd u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.788024,
+          46.364301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20601",
+      "properties": {
+        "stop_id": "20601",
+        "stop_name": "Losonc-köz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787876,
+          46.370133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20602",
+      "properties": {
+        "stop_id": "20602",
+        "stop_name": "Losonc-köz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787959,
+          46.369498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20801",
+      "properties": {
+        "stop_id": "20801",
+        "stop_name": "Brassó u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787414,
+          46.372095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20901",
+      "properties": {
+        "stop_id": "20901",
+        "stop_name": "Sopron u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.785773,
+          46.375539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21001",
+      "properties": {
+        "stop_id": "21001",
+        "stop_name": "Nagyszeben u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787099,
+          46.373202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21101",
+      "properties": {
+        "stop_id": "21101",
+        "stop_name": "Somssich P. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789075,
+          46.36059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21601",
+      "properties": {
+        "stop_id": "21601",
+        "stop_name": "Mátyás k. u., forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.758932,
+          46.366098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21701",
+      "properties": {
+        "stop_id": "21701",
+        "stop_name": "Állatkórház"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.771328,
+          46.352113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21702",
+      "properties": {
+        "stop_id": "21702",
+        "stop_name": "Állatkórház"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77143,
+          46.352072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21901",
+      "properties": {
+        "stop_id": "21901",
+        "stop_name": "Beszédes J. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763232,
+          46.341854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21902",
+      "properties": {
+        "stop_id": "21902",
+        "stop_name": "Beszédes J. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763295,
+          46.342038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22101",
+      "properties": {
+        "stop_id": "22101",
+        "stop_name": "Rózsa u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779403,
+          46.346283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22102",
+      "properties": {
+        "stop_id": "22102",
+        "stop_name": "Rózsa u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779583,
+          46.34629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22103",
+      "properties": {
+        "stop_id": "22103",
+        "stop_name": "Rózsa u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.778775,
+          46.345863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22301",
+      "properties": {
+        "stop_id": "22301",
+        "stop_name": "Vikár B. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.812303,
+          46.349927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22302",
+      "properties": {
+        "stop_id": "22302",
+        "stop_name": "Vikár B. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.812114,
+          46.350322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22501",
+      "properties": {
+        "stop_id": "22501",
+        "stop_name": "Toponár, Orci út"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.841595,
+          46.395334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22502",
+      "properties": {
+        "stop_id": "22502",
+        "stop_name": "Toponár, Orci út"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.84146,
+          46.395367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22901",
+      "properties": {
+        "stop_id": "22901",
+        "stop_name": "Toldi lakónegyed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782614,
+          46.367266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22902",
+      "properties": {
+        "stop_id": "22902",
+        "stop_name": "Toldi lakónegyed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782415,
+          46.367428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23101",
+      "properties": {
+        "stop_id": "23101",
+        "stop_name": "Kinizsi ltp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782575,
+          46.371844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23102",
+      "properties": {
+        "stop_id": "23102",
+        "stop_name": "Kinizsi ltp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.782557,
+          46.371188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23501",
+      "properties": {
+        "stop_id": "23501",
+        "stop_name": "Állomás u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.762909,
+          46.413198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23502",
+      "properties": {
+        "stop_id": "23502",
+        "stop_name": "Állomás u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76257,
+          46.413111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24501",
+      "properties": {
+        "stop_id": "24501",
+        "stop_name": "Fő u. 48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.798156,
+          46.356765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24801",
+      "properties": {
+        "stop_id": "24801",
+        "stop_name": "Hősök temploma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.809826,
+          46.357663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24802",
+      "properties": {
+        "stop_id": "24802",
+        "stop_name": "Hősök temploma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8102,
+          46.35774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24803",
+      "properties": {
+        "stop_id": "24803",
+        "stop_name": "Hősök temploma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.809291,
+          46.358631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24804",
+      "properties": {
+        "stop_id": "24804",
+        "stop_name": "Hősök temploma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.807819,
+          46.357917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25801",
+      "properties": {
+        "stop_id": "25801",
+        "stop_name": "Kertbarát felső"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787104,
+          46.32504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25802",
+      "properties": {
+        "stop_id": "25802",
+        "stop_name": "Kertbarát felső"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787293,
+          46.325102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26601",
+      "properties": {
+        "stop_id": "26601",
+        "stop_name": "Mező u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.813659,
+          46.364089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26602",
+      "properties": {
+        "stop_id": "26602",
+        "stop_name": "Mező u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.812757,
+          46.363197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26603",
+      "properties": {
+        "stop_id": "26603",
+        "stop_name": "Mező u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.813745,
+          46.363234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26604",
+      "properties": {
+        "stop_id": "26604",
+        "stop_name": "Mező u. csp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.812592,
+          46.363882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26701",
+      "properties": {
+        "stop_id": "26701",
+        "stop_name": "Rendőrség"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.793807,
+          46.364535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26801",
+      "properties": {
+        "stop_id": "26801",
+        "stop_name": "Szegfű u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783264,
+          46.34562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26802",
+      "properties": {
+        "stop_id": "26802",
+        "stop_name": "Szegfű u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783638,
+          46.345591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26901",
+      "properties": {
+        "stop_id": "26901",
+        "stop_name": "Szőlőhegy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.786042,
+          46.312753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26902",
+      "properties": {
+        "stop_id": "26902",
+        "stop_name": "Szőlőhegy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.786074,
+          46.312871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27101",
+      "properties": {
+        "stop_id": "27101",
+        "stop_name": "Jókai u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.786706,
+          46.345813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27102",
+      "properties": {
+        "stop_id": "27102",
+        "stop_name": "Jókai u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.787093,
+          46.34578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27301",
+      "properties": {
+        "stop_id": "27301",
+        "stop_name": "Erdősor u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.773946,
+          46.345704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27501",
+      "properties": {
+        "stop_id": "27501",
+        "stop_name": "Városi fürdő"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797212,
+          46.351411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27601",
+      "properties": {
+        "stop_id": "27601",
+        "stop_name": "Célgazdaság"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779858,
+          46.313619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27701",
+      "properties": {
+        "stop_id": "27701",
+        "stop_name": "Nap u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.829033,
+          46.350381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27702",
+      "properties": {
+        "stop_id": "27702",
+        "stop_name": "Nap u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.828967,
+          46.350666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28001",
+      "properties": {
+        "stop_id": "28001",
+        "stop_name": "Répáspuszta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.840567,
+          46.429772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31601",
+      "properties": {
+        "stop_id": "31601",
+        "stop_name": "Kőrösi Cs. S. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.760411,
+          46.358633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31602",
+      "properties": {
+        "stop_id": "31602",
+        "stop_name": "Kőrösi Cs. S. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.760571,
+          46.358609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31701",
+      "properties": {
+        "stop_id": "31701",
+        "stop_name": "Bethlem G. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.762098,
+          46.352104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31702",
+      "properties": {
+        "stop_id": "31702",
+        "stop_name": "Bethlem G. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.762275,
+          46.352209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32001",
+      "properties": {
+        "stop_id": "32001",
+        "stop_name": "Szennyvíztelep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.874556,
+          46.360806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33001",
+      "properties": {
+        "stop_id": "33001",
+        "stop_name": "Berzsenyi u. 30."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783914,
+          46.360219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33002",
+      "properties": {
+        "stop_id": "33002",
+        "stop_name": "Berzsenyi u. 30."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783949,
+          46.359015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33201",
+      "properties": {
+        "stop_id": "33201",
+        "stop_name": "Jutai u. 24."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.768761,
+          46.370219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33202",
+      "properties": {
+        "stop_id": "33202",
+        "stop_name": "Jutai u. 24."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.769098,
+          46.369585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33401",
+      "properties": {
+        "stop_id": "33401",
+        "stop_name": "Tóth Á. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.767521,
+          46.371917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33402",
+      "properties": {
+        "stop_id": "33402",
+        "stop_name": "Tóth Á. u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.767799,
+          46.371315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33601",
+      "properties": {
+        "stop_id": "33601",
+        "stop_name": "Jutai u. 45."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763584,
+          46.37692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33602",
+      "properties": {
+        "stop_id": "33602",
+        "stop_name": "Jutai u. 45."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763422,
+          46.37702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33801",
+      "properties": {
+        "stop_id": "33801",
+        "stop_name": "Raktár u. 2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763413,
+          46.378251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33802",
+      "properties": {
+        "stop_id": "33802",
+        "stop_name": "Raktár u. 2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763237,
+          46.378242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34001",
+      "properties": {
+        "stop_id": "34001",
+        "stop_name": "Kecelhegyalja u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.760869,
+          46.363347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34002",
+      "properties": {
+        "stop_id": "34002",
+        "stop_name": "Kecelhegyalja u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76106,
+          46.363476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34101",
+      "properties": {
+        "stop_id": "34101",
+        "stop_name": "Magyar Nobel-díjasok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763204,
+          46.348833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34102",
+      "properties": {
+        "stop_id": "34102",
+        "stop_name": "Magyar Nobel-díjasok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.763354,
+          46.348642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34401",
+      "properties": {
+        "stop_id": "34401",
+        "stop_name": "Aranyeső u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790368,
+          46.337689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34402",
+      "properties": {
+        "stop_id": "34402",
+        "stop_name": "Aranyeső u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790636,
+          46.337417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34601",
+      "properties": {
+        "stop_id": "34601",
+        "stop_name": "Fenyves u. 37/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.78296,
+          46.307646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34602",
+      "properties": {
+        "stop_id": "34602",
+        "stop_name": "Fenyves u. 37/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783003,
+          46.307721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34801",
+      "properties": {
+        "stop_id": "34801",
+        "stop_name": "Fenyves u. 31."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783385,
+          46.306016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34802",
+      "properties": {
+        "stop_id": "34802",
+        "stop_name": "Fenyves u. 31."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783427,
+          46.306067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35001",
+      "properties": {
+        "stop_id": "35001",
+        "stop_name": "Szigetvári u. 6."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.794058,
+          46.349041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35002",
+      "properties": {
+        "stop_id": "35002",
+        "stop_name": "Szigetvári u. 6."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.794128,
+          46.349135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35201",
+      "properties": {
+        "stop_id": "35201",
+        "stop_name": "Szigetvári u. 62."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79683,
+          46.345526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35202",
+      "properties": {
+        "stop_id": "35202",
+        "stop_name": "Szigetvári u. 62."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.796833,
+          46.345617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35401",
+      "properties": {
+        "stop_id": "35401",
+        "stop_name": "Fő u. 37-39."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.795415,
+          46.35677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35503",
+      "properties": {
+        "stop_id": "35503",
+        "stop_name": "Kométa, forduló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.822924,
+          46.357943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35901",
+      "properties": {
+        "stop_id": "35901",
+        "stop_name": "Kenyérgyár u. 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.817056,
+          46.363174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35902",
+      "properties": {
+        "stop_id": "35902",
+        "stop_name": "Kenyérgyár u. 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.816802,
+          46.362878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36101",
+      "properties": {
+        "stop_id": "36101",
+        "stop_name": "Kenyérgyár u. 3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81812,
+          46.364647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36201",
+      "properties": {
+        "stop_id": "36201",
+        "stop_name": "Dombóvári u. 4."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.833675,
+          46.36392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36202",
+      "properties": {
+        "stop_id": "36202",
+        "stop_name": "Dombóvári u. 4."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.833452,
+          46.363943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36401",
+      "properties": {
+        "stop_id": "36401",
+        "stop_name": "Izzó u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.816267,
+          46.367378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36402",
+      "properties": {
+        "stop_id": "36402",
+        "stop_name": "Izzó u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.815445,
+          46.366499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36601",
+      "properties": {
+        "stop_id": "36601",
+        "stop_name": "Guba S. u. 57."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.817309,
+          46.368622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36602",
+      "properties": {
+        "stop_id": "36602",
+        "stop_name": "Guba S. u. 57."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.817069,
+          46.368544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36801",
+      "properties": {
+        "stop_id": "36801",
+        "stop_name": "Guba S. u. 81."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8213,
+          46.37363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36802",
+      "properties": {
+        "stop_id": "36802",
+        "stop_name": "Guba S. u. 81."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.82125,
+          46.373753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37001",
+      "properties": {
+        "stop_id": "37001",
+        "stop_name": "Toponári u. 182."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.834138,
+          46.402012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37002",
+      "properties": {
+        "stop_id": "37002",
+        "stop_name": "Toponári u. 182."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.83402,
+          46.402044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37201",
+      "properties": {
+        "stop_id": "37201",
+        "stop_name": "Toponári u. 238."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.835287,
+          46.40522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37202",
+      "properties": {
+        "stop_id": "37202",
+        "stop_name": "Toponári u. 238."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.835126,
+          46.405147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37601",
+      "properties": {
+        "stop_id": "37601",
+        "stop_name": "ÁNTSZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789065,
+          46.36517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37602",
+      "properties": {
+        "stop_id": "37602",
+        "stop_name": "ÁNTSZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.789281,
+          46.365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37801",
+      "properties": {
+        "stop_id": "37801",
+        "stop_name": "Kaposfüredi u. 12."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779393,
+          46.402657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37802",
+      "properties": {
+        "stop_id": "37802",
+        "stop_name": "Kaposfüredi u. 12."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779263,
+          46.402766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38001",
+      "properties": {
+        "stop_id": "38001",
+        "stop_name": "Kaposfüredi u. 104."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779572,
+          46.408858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38002",
+      "properties": {
+        "stop_id": "38002",
+        "stop_name": "Kaposfüredi u. 104."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.779423,
+          46.407549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38201",
+      "properties": {
+        "stop_id": "38201",
+        "stop_name": "Kaposfüredi u. 244."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.776467,
+          46.419546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38202",
+      "properties": {
+        "stop_id": "38202",
+        "stop_name": "Kaposfüredi u. 244."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.776412,
+          46.419329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40101",
+      "properties": {
+        "stop_id": "40101",
+        "stop_name": "Harangvirág u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790028,
+          46.334789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40102",
+      "properties": {
+        "stop_id": "40102",
+        "stop_name": "Harangvirág u."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7901,
+          46.334838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40201",
+      "properties": {
+        "stop_id": "40201",
+        "stop_name": "Corso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.786027,
+          46.355239
+        ]
+      }
+    }
+  ]
+}
