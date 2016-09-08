@@ -12,41 +12,41 @@ stop_id,stop_name,stop_desc,stop_lon,stop_lat
 111,"Helyi autóbusz-állomás","",17.792456,46.353408
 112,"Helyi autóbusz-állomás","",17.793026,46.353295
 120,"Helyi autóbusz-állomás","",17.7933612,46.353366
-201,"Berzsenyi u. felüljáró","",17.785368,46.356496
-202,"Berzsenyi u. felüljáró","",17.784656,46.355323
-203,"Berzsenyi u. felüljáró","",17.784867,46.355406
-204,"Berzsenyi u. felüljáró","",17.785847,46.355098
+201,"Berzsenyi u. felüljáró","Közelben: Corso, Kaposvár Plaza",17.785368,46.356496
+202,"Berzsenyi u. felüljáró","Közelben: Corso, Kaposvár Plaza",17.784656,46.355323
+203,"Berzsenyi u. felüljáró","Közelben: Corso, Kaposvár Plaza",17.784867,46.355406
+204,"Berzsenyi u. felüljáró","Közelben: Corso, Kaposvár Plaza",17.785847,46.355098
 801,"Füredi u. csp.","",17.781451,46.363761
 802,"Füredi u. csp.","",17.782521,46.363155
 803,"Füredi u. csp.","",17.78242,46.364555
 804,"Füredi u. csp.","",17.783323,46.36394
-1201,"Városi könyvtár","",17.776984,46.36313
-1202,"Városi könyvtár","",17.779185,46.363396
-1401,"Vasútköz","",17.770321,46.363941
-1402,"Vasútköz","",17.770503,46.363737
-1601,"Hajnóczy u. csp.","",17.765327,46.366725
-1602,"Hajnóczy u. csp.","",17.765124,46.366737
-1603,"Hajnóczy u. csp.","",17.763714,46.366094
-1604,"Hajnóczy u. csp.","",17.765918,46.365568
+1201,"Városi könyvtár","Közelben: Gyakoroló Ált. Iskola, Városliget",17.776984,46.36313
+1202,"Városi könyvtár","Közelben: Gyakoroló Ált. Iskola, Városliget",17.779185,46.363396
+1401,"Vasútköz","Közelben: Nyugati temető, II. Rákóczi F. Ált. Iskola",17.770321,46.363941
+1402,"Vasútköz","Közelben: Nyugati temető, II. Rákóczi F. Ált. Iskola",17.770503,46.363737
+1601,"Hajnóczy u. csp.","Közelben: Meistro Lovasklub",17.765327,46.366725
+1602,"Hajnóczy u. csp.","Közelben: Meistro Lovasklub",17.765124,46.366737
+1603,"Hajnóczy u. csp.","Közelben: Meistro Lovasklub",17.763714,46.366094
+1604,"Hajnóczy u. csp.","Közelben: Meistro Lovasklub",17.765918,46.365568
 2701,"Raktár u.","",17.769202,46.379373
 2901,"Tompa M. u.","",17.778585,46.353738
 2902,"Tompa M. u.","",17.77867,46.353673
-3101,"Kölcsey u.","",17.774299,46.352766
-3102,"Kölcsey u.","",17.774628,46.352779
+3101,"Kölcsey u.","Közelben: Építőipari, Faipari Szki., focipálya",17.774299,46.352766
+3102,"Kölcsey u.","Közelben: Építőipari, Faipari Szki., focipálya",17.774628,46.352779
 3501,"Eger u.","",17.767928,46.348416
 3502,"Eger u.","",17.768143,46.348267
 3701,"Kapoli A. u.","",17.76328,46.347673
 3702,"Kapoli A. u.","",17.76334,46.347351
 3901,"Egyenesi u. 42.","",17.763222,46.345199
 3902,"Egyenesi u. 42.","",17.763348,46.345322
-4101,"Egyenesi u. forduló","",17.763483,46.339
+4101,"Egyenesi u. forduló","Közelben: Uránia lakótelep, Csillagvizsgáló",17.763483,46.339
 4401,"Kecelhegyi iskola","",17.765594,46.353505
 4501,"67-es sz. út","",17.782719,46.351172
 4502,"67-es sz. út","",17.78189,46.350693
 4801,"Gönczi F. u.","",17.774572,46.344759
-4901,"Koppány vezér u.","",17.771347,46.345096
-5001,"Bartók B. u.","",17.790428,46.351489
-5002,"Bartók B. u.","",17.790546,46.351467
+4901,"Koppány vezér u.","Közelben: Gárdonyi G. Ált. Iskola, Madár utcai óvóda",17.771347,46.345096
+5001,"Bartók B. u.","Közelben: Virágfürdő, Jókai liget",17.790428,46.351489
+5002,"Bartók B. u.","Közelben: Virágfürdő, Jókai liget",17.790546,46.351467
 5401,"Táncsics M. u.","",17.787405,46.345626
 5402,"Táncsics M. u.","",17.787425,46.345522
 5601,"Zichy u.","",17.789208,46.34163
@@ -68,28 +68,28 @@ stop_id,stop_name,stop_desc,stop_lon,stop_lat
 8502,"Nyár u.","",17.806771,46.340306
 8701,"Lonkahegy","",17.810014,46.341027
 8702,"Lonkahegy","",17.809848,46.341065
-8801,"Vasútállomás","",17.79618,46.352878
-8901,"Baross G. u.","",17.803303,46.352847
-8902,"Baross G. u.","",17.800349,46.352915
-9101,"Csalogány u.","",17.808594,46.351162
-9102,"Csalogány u.","",17.80918,46.351172
-9501,"Béla király u.","",17.815058,46.348333
-9801,"Hársfa u.","",17.802077,46.357184
-9802,"Hársfa u.","",17.800953,46.357196
-10401,"Gyár u.","",17.815205,46.356706
+8801,"Vasútállomás","Közelben: Vasútállomás, Csiky Gergely Színház, Magyar Államkincstár",17.79618,46.352878
+8901,"Baross G. u.","Közelben: Nagypiac, Kinizsi Pál Szki., Hadkieg. parancsnokság",17.803303,46.352847
+8902,"Baross G. u.","Közelben: Nagypiac, Kinizsi Pál Szki., Hadkieg. parancsnokság",17.800349,46.352915
+9101,"Csalogány u.","Közelben: Gugyuló Jézus-szobor, Rómahegy",17.808594,46.351162
+9102,"Csalogány u.","Közelben: Gugyuló Jézus-szobor, Rómahegy",17.80918,46.351172
+9501,"Béla király u.","Közelben: Idősek otthona, Kaposvári Református Egyházközség",17.815058,46.348333
+9801,"Hársfa u.","Közelben: Kaposi Mór Oktató Kórház, Kaposvári Nyomda, Rippl-Rónai József Közlekedési Szki.",17.802077,46.357184
+9802,"Hársfa u.","Közelben: Kaposi Mór Oktató Kórház, Kaposvári Nyomda, Rippl-Rónai József Közlekedési Szki.",17.800953,46.357196
+10401,"Gyár u.","Közelben: Kaposvári Cukorgyár",17.815205,46.356706
 10402,"Gyár u.","",17.814504,46.356994
-10601,"Pécsi úti iskola","",17.818576,46.356128
-10602,"Pécsi úti iskola","",17.819933,46.356001
+10601,"Pécsi úti iskola","Közelben: Pécsi úti Ált. Iskola, Kométa húskombinát",17.818576,46.356128
+10602,"Pécsi úti iskola","Közelben: Pécsi úti Ált. Iskola, Kométa húskombinát",17.819933,46.356001
 10801,"Nádasdi u.","",17.826831,46.354608
 10802,"Nádasdi u.","",17.825069,46.355052
 10803,"Nádasdi u.","",17.826073,46.354383
-11001,"Móricz Zs. u.","",17.836474,46.354287
-11002,"Móricz Zs. u.","",17.835344,46.353841
+11001,"Móricz Zs. u.","Közelben: Művelődési ház, Könyvtár, Óvoda",17.836474,46.354287
+11002,"Móricz Zs. u.","Közelben: Művelődési ház, Könyvtár, Óvoda",17.835344,46.353841
 11201,"Pécsi u. 227.","",17.840157,46.357595
 11202,"Pécsi u. 227.","",17.839656,46.357395
-11401,"Várhegy feljáró","",17.843785,46.359294
-11402,"Várhegy feljáró","",17.843652,46.359303
-11601,"Kaposszentjakab, forduló","",17.847299,46.359488
+11401,"Várhegy feljáró","Közelben: Kaposszentjakabi Bencés Apátság",17.843785,46.359294
+11402,"Várhegy feljáró","Közelben: Kaposszentjakabi Bencés Apátság",17.843652,46.359303
+11601,"Kaposszentjakab, forduló","Közelben: Kaposszentjakabi Bencés Apátság",17.847299,46.359488
 11701,"Hold u.","",17.834631,46.34637
 12901,"Villamossági Gyár","",17.823763,46.377725
 12902,"Villamossági Gyár","",17.823592,46.377626
@@ -153,10 +153,10 @@ stop_id,stop_name,stop_desc,stop_lon,stop_lat
 21001,"Nagyszeben u.","",17.787099,46.373202
 21101,"Somssich P. u.","",17.789075,46.36059
 21601,"Mátyás k. u., forduló","",17.758932,46.366098
-21701,"Állatkórház","",17.771328,46.352113
-21702,"Állatkórház","",17.77143,46.352072
-21901,"Beszédes J. u.","",17.763232,46.341854
-21902,"Beszédes J. u.","",17.763295,46.342038
+21701,"Állatkórház","Közelben: Állatkorház, Cseri park",17.771328,46.352113
+21702,"Állatkórház","Közelben: Állatkorház, Cseri park",17.77143,46.352072
+21901,"Beszédes J. u.","Közelben: víztorony",17.763232,46.341854
+21902,"Beszédes J. u.","Közelben: víztorony",17.763295,46.342038
 22101,"Rózsa u.","",17.779403,46.346283
 22102,"Rózsa u.","",17.779583,46.34629
 22103,"Rózsa u.","",17.778775,46.345863
@@ -170,11 +170,11 @@ stop_id,stop_name,stop_desc,stop_lon,stop_lat
 23102,"Kinizsi ltp.","",17.782557,46.371188
 23501,"Állomás u.","",17.762909,46.413198
 23502,"Állomás u.","",17.76257,46.413111
-24501,"Fő u. 48","",17.798156,46.356765
-24801,"Hősök temploma","",17.809826,46.357663
-24802,"Hősök temploma","",17.8102,46.35774
-24803,"Hősök temploma","",17.809291,46.358631
-24804,"Hősök temploma","",17.807819,46.357917
+24501,"Fő u. 48","Közelben: Kodály Zoltán Ált. Iskola, Zichy Mihály Iparművészeti Szki., Munkaügyi Központ",17.798156,46.356765
+24801,"Hősök temploma","Közelben: Hősök temploma, Keleti temető, Zsidó temető, Rákóczi Stadion, Kaposvári Cukorgyár",17.809826,46.357663
+24802,"Hősök temploma","Közelben: Hősök temploma, Keleti temető, Zsidó temető, Rákóczi Stadion, Kaposvári Cukorgyár",17.8102,46.35774
+24803,"Hősök temploma","Közelben: Hősök temploma, Keleti temető, Zsidó temető, Rákóczi Stadion, Kaposvári Cukorgyár",17.809291,46.358631
+24804,"Hősök temploma","Közelben: Hősök temploma, Keleti temető, Zsidó temető, Rákóczi Stadion, Kaposvári Cukorgyár",17.807819,46.357917
 25801,"Kertbarát felső","",17.787104,46.32504
 25802,"Kertbarát felső","",17.787293,46.325102
 26601,"Mező u. csp.","",17.813659,46.364089
@@ -223,19 +223,19 @@ stop_id,stop_name,stop_desc,stop_lon,stop_lat
 35002,"Szigetvári u. 6.","",17.794128,46.349135
 35201,"Szigetvári u. 62.","",17.79683,46.345526
 35202,"Szigetvári u. 62.","",17.796833,46.345617
-35401,"Fő u. 37-39.","",17.795415,46.35677
+35401,"Fő u. 37-39.","Közelben: Hotel Dorottya, OTP, Kormányhivatal, Együd Árpád Kulturális Központ, Főposta, Megyei és Városi Könyvtár",17.795415,46.35677
 35503,"Kométa, forduló","",17.822924,46.357943
 35901,"Kenyérgyár u. 1.","",17.817056,46.363174
 35902,"Kenyérgyár u. 1.","",17.816802,46.362878
 36101,"Kenyérgyár u. 3.","",17.81812,46.364647
 36201,"Dombóvári u. 4.","",17.833675,46.36392
 36202,"Dombóvári u. 4.","",17.833452,46.363943
-36401,"Izzó u.","",17.816267,46.367378
-36402,"Izzó u.","",17.815445,46.366499
-36601,"Guba S. u. 57.","",17.817309,46.368622
-36602,"Guba S. u. 57.","",17.817069,46.368544
-36801,"Guba S. u. 81.","",17.8213,46.37363
-36802,"Guba S. u. 81.","",17.82125,46.373753
+36401,"Izzó u.","Közelben: Videoton Ipari Park",17.816267,46.367378
+36402,"Izzó u.","Közelben: Videoton Ipari Park",17.815445,46.366499
+36601,"Guba S. u. 57.","Közelben: E.ON Régióközpont",17.817309,46.368622
+36602,"Guba S. u. 57.","Közelben: E.ON Régióközpont",17.817069,46.368544
+36801,"Guba S. u. 81.","Közelben: Vízmű",17.8213,46.37363
+36802,"Guba S. u. 81.","Közelben: Vízmű",17.82125,46.373753
 37001,"Toponári u. 182.","",17.834138,46.402012
 37002,"Toponári u. 182.","",17.83402,46.402044
 37201,"Toponári u. 238.","",17.835287,46.40522
