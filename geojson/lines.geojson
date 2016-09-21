@@ -3,9 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "id": "00205",
+      "id": "SH10O00205",
       "properties": {
-        "shape_id": "00205"
+        "shape_id": "SH10O00205"
       },
       "geometry": {
         "type": "LineString",
@@ -943,9 +943,9 @@
     },
     {
       "type": "Feature",
-      "id": "00206",
+      "id": "SH10V00206",
       "properties": {
-        "shape_id": "00206"
+        "shape_id": "SH10V00206"
       },
       "geometry": {
         "type": "LineString",
