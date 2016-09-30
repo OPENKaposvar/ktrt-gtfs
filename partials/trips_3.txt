@@ -1,0 +1,8 @@
+13,FWD,3FWD0,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
+13,FWD,3FWD1,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
+13,FWE,3FWE0,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
+13,FWE,3FWE1,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
+13,SWD,3SWD0,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
+13,SWD,3SWD1,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
+13,SWE,3SWE0,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
+13,SWE,3SWE1,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
