@@ -20,7 +20,7 @@ gulp.task('clean', function() {
     ]);
 });
 
-gulp.task('combine', function() {
+gulp.task('combine-shapes', function() {
   return gulp
     .src([
       './partials/headers/shapes.txt',
@@ -28,6 +28,19 @@ gulp.task('combine', function() {
     ])
     .pipe(concat('shapes.txt'))
     .pipe(gulp.dest('./feed/'));
+});
+
+gulp.task('combine-trips', function() {
+  return gulp
+    .src([
+      './partials/headers/trips.txt',
+      './partials/trips_*.txt'
+    ])
+    .pipe(concat('trips.txt'))
+    .pipe(gulp.dest('./feed/'));
+});
+
+gulp.task('combine', ['combine-shapes', 'combine-trips'], function() {
 });
 
 gulp.task('validate', ['combine'], function(cb) {
