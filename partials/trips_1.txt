@@ -1,8 +1,8 @@
-1,FWD,1FWD0,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,FWD,1FWD1,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-1,FWE,1FWE0,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,FWE,1FWE1,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-1,SWD,1SWD0,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,SWD,1SWD1,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-1,SWE,1SWE0,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,SWE,1SWE1,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
+1,FWD,1FWDO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
+1,FWD,1FWDV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
+1,FWE,1FWEO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
+1,FWE,1FWEV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
+1,SWD,1SWDO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
+1,SWD,1SWDV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
+1,SWE,1SWEO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
+1,SWE,1SWEV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0

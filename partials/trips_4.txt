@@ -1,22 +1,3 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_accessible,bikes_allowed
-1,FWD,1FWDO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,FWD,1FWDV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-1,FWE,1FWEO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,FWE,1FWEV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-1,SWD,1SWDO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,SWD,1SWDV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-1,SWE,1SWEO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
-1,SWE,1SWEV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
-
-13,FWD,3FWDO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
-13,FWD,3FWDV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
-13,FWE,3FWEO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
-13,FWE,3FWEV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
-13,SWD,3SWDO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
-13,SWD,3SWDV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
-13,SWE,3SWEO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
-13,SWE,3SWEV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
-
 15,FWD,4FWDO00011,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00011,1,0
 15,FWD,4FWDO00089,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00089,1,0
 15,FWD,4FWDO00259,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00259,1,0
