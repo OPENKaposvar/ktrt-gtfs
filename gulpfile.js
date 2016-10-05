@@ -9,6 +9,7 @@ var gulp = require('gulp'),
   util = require('gulp-util'),
   open = require('gulp-open'),
   concat = require('gulp-concat'),
+  strip = require('gulp-strip-comments'),
   gtfs2geojson = require('gtfs2geojson'),
   fs = require('fs'),
   del = require('del');
@@ -27,6 +28,7 @@ gulp.task('combine-shapes', function() {
       './partials/shapes_*.txt'
     ])
     .pipe(concat('shapes.txt'))
+    .pipe(strip.text())
     .pipe(gulp.dest('./feed/'));
 });
 
@@ -37,6 +39,7 @@ gulp.task('combine-trips', function() {
       './partials/trips_*.txt'
     ])
     .pipe(concat('trips.txt'))
+    .pipe(strip.text())
     .pipe(gulp.dest('./feed/'));
 });
 
