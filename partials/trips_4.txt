@@ -2,30 +2,37 @@
 15,FWD,4FWDO00011,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00011,1,0
 15,FWD,4FWDO00089,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00089,1,0
 15,FWD,4FWDO00259,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00259,1,0
+
 // Őszi/téli menetrend, vissza irányú járatok, hétköznap
 15,FWD,4FWDV00041,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00041,1,0
 15,FWD,4FWDV00090,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00090,1,0
 15,FWD,4FWDV00260,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00260,1,0
+
 // Őszi/téli menetrend, oda irányú járatok, hétvége
 15,FWE,4FWEO00011,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00011,1,0
 15,FWE,4FWEO00089,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00089,1,0
 15,FWE,4FWEO00259,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00259,1,0
+
 // Őszi/téli menetrend, vissza irányú járatok, hétvége
 15,FWE,4FWEV00041,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00041,1,0
 15,FWE,4FWEV00090,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00090,1,0
 15,FWE,4FWEV00260,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00260,1,0
+
 // Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
 15,SWD,4SWDO00011,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00011,1,0
 15,SWD,4SWDO00089,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00089,1,0
 15,SWD,4SWDO00259,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00259,1,0
+
 // Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
 15,SWD,4SWDV00041,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00041,1,0
 15,SWD,4SWDV00090,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00090,1,0
 15,SWD,4SWDV00260,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00260,1,0
+
 // Tavaszi/nyári menetrend, oda irányú járatok, hétvége
 15,SWE,4SWEO00011,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00011,1,0
 15,SWE,4SWEO00089,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00089,1,0
 15,SWE,4SWEO00259,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00259,1,0
+
 // Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
 15,SWE,4SWEV00041,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00041,1,0
 15,SWE,4SWEV00090,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00090,1,0

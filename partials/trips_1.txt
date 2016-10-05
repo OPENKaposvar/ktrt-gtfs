@@ -3,6 +3,7 @@
 1,FWD,1FWDV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
 1,FWE,1FWEO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
 1,FWE,1FWEV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
+
 // Tavaszi/nyári menetrend
 1,SWD,1SWDO00001,"Helyi autóbusz-állomás - Raktár u.",0,SH1O00001,1,0
 1,SWD,1SWDV00037,"Raktár u. - Helyi autóbusz-állomás",1,SH1V00037,1,0
