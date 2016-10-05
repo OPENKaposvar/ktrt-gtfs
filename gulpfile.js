@@ -10,6 +10,7 @@ var gulp = require('gulp'),
   open = require('gulp-open'),
   concat = require('gulp-concat'),
   strip = require('gulp-strip-comments'),
+  removeEmptyLines = require('gulp-remove-empty-lines'),
   gtfs2geojson = require('gtfs2geojson'),
   fs = require('fs'),
   del = require('del');
@@ -29,6 +30,7 @@ gulp.task('combine-shapes', function() {
     ])
     .pipe(concat('shapes.txt'))
     .pipe(strip.text())
+    .pipe(removeEmptyLines())
     .pipe(gulp.dest('./feed/'));
 });
 
@@ -40,6 +42,7 @@ gulp.task('combine-trips', function() {
     ])
     .pipe(concat('trips.txt'))
     .pipe(strip.text())
+    .pipe(removeEmptyLines())
     .pipe(gulp.dest('./feed/'));
 });
 
