@@ -1,3 +1,9 @@
+/*
+ * "4" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+ 
 // Őszi/téli menetrend, oda irányú járatok, hétköznap
 15,FWD,4FWDO00011,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00011,1,0
 15,FWD,4FWDO00089,"Helyi autóbusz-állomás - Koppány vezér u.",0,SH4O00089,1,0
