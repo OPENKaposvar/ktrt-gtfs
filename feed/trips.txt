@@ -39,3 +39,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 15,SWE,4SWEV00041,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00041,1,0
 15,SWE,4SWEV00090,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00090,1,0
 15,SWE,4SWEV00260,"Koppány vezér u. - Helyi autóbusz-állomás",1,SH4V00260,1,0
+16,FWD,5FWDO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,FWD,5FWDO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+16,FWE,5FWEO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,FWE,5FWEO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+16,SWD,5SWDO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,SWD,5SWDO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+16,SWE,5SWEO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,SWE,5SWEO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0

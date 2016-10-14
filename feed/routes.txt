@@ -14,11 +14,12 @@ route_id,route_short_name,route_long_name,route_desc,route_type
 13,"3","Egyenesi","Helyi autóbusz-állomás és Egyenesi. u. forduló között",3
 14,"31","Matyas2","Helyi autóbusz-állomás és Mátyás K. u. között",3
 15,"4","Koppany","Helyi autóbusz-állomás és Koppány vezér u. között",3
-16,"6","BelaK","Helyi autóbusz-állomás és Béla Király u. között",3
-17,"7","Szentjakab","Helyi autóbusz-állomás és Kaposszentjakab, forduló között",3
-18,"8","Toponar","Helyi autóbusz-állomás és Toponár, forduló között",3
-19,"8B","EgyetemB","Helyi autóbusz-állomás és Kaposvári Egyetem között",3
-20,"8E","Nabi","Helyi autóbusz-állomás és NABI között",3
-21,"8Y","VideotonY","Helyi autóbusz-állomás és Videoton között",3
-22,"9","AranyJ","Helyi autóbusz-állomás és Arany János tér között",3
-23,"91","Furedi","Helyi autóbusz-állomás és Füredi u. csp. között",3
+16,"5","67Fout","Körjárat 67-es főút érintésével",3
+17,"6","BelaK","Helyi autóbusz-állomás és Béla Király u. között",3
+18,"7","Szentjakab","Helyi autóbusz-állomás és Kaposszentjakab, forduló között",3
+19,"8","Toponar","Helyi autóbusz-állomás és Toponár, forduló között",3
+20,"8B","EgyetemB","Helyi autóbusz-állomás és Kaposvári Egyetem között",3
+21,"8E","Nabi","Helyi autóbusz-állomás és NABI között",3
+22,"8Y","VideotonY","Helyi autóbusz-állomás és Videoton között",3
+23,"9","AranyJ","Helyi autóbusz-állomás és Arany János tér között",3
+24,"91","Furedi","Helyi autóbusz-állomás és Füredi u. csp. között",3

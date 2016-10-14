@@ -1,0 +1,22 @@
+/*
+ * "5" járat útvonalai
+ * Figyelem! Körjárat - nincs visszaút!
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+16,FWD,5FWDO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,FWD,5FWDO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+16,FWE,5FWEO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,FWE,5FWEO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+16,SWD,5SWDO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,SWD,5SWDO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+16,SWE,5SWEO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
+16,SWE,5SWEO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
