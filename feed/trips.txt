@@ -47,3 +47,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 16,SWD,5SWDO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
 16,SWE,5SWEO00007,"Körjárat (67-es főút)",0,SH5O00007,1,0
 16,SWE,5SWEO00091,"Körjárat (67-es főút)",0,SH5O00091,1,0
+17,FWD,6FWDO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+17,FWD,6FWDV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
+17,FWE,6FWEO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+17,FWE,6FWEV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
+17,SWD,6SWDO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+17,SWD,6SWDV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
+17,SWE,6SWEO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+17,SWE,6SWEV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0

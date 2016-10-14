@@ -1,0 +1,29 @@
+/*
+ * "6" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+17,FWD,6FWDO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+17,FWD,6FWDV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+17,FWE,6FWEO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+17,FWE,6FWEV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+17,SWD,6SWDO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+17,SWD,6SWDV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+17,SWE,6SWEO00013,"Helyi autóbusz-állomás és Béla Király u.",0,SH6O00013,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+17,SWE,6SWEV00044,"Helyi autóbusz-állomás és Béla Király u.",0,SH6V00044,1,0
