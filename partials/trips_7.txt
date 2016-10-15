@@ -1,0 +1,41 @@
+/*
+ * "7" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+18,FWD,7FWDO00014,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00014,1,0
+18,FWD,7FWDO00095,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00095,1,0
+18,FWD,7FWDO00195,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00195,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+18,FWD,7FWDV00045,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00045,1,0
+18,FWD,7FWDV00253,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00253,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+18,FWE,7FWEO00014,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00014,1,0
+18,FWE,7FWEO00095,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00095,1,0
+18,FWE,7FWEO00195,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00195,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+18,FWE,7FWEV00045,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00045,1,0
+18,FWE,7FWEV00253,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00253,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+18,SWD,7SWDO00014,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00014,1,0
+18,SWD,7SWDO00095,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00095,1,0
+18,SWD,7SWDO00195,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00195,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+18,SWD,7SWDV00045,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00045,1,0
+18,SWD,7SWDV00253,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00253,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+18,SWE,7SWEO00014,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00014,1,0
+18,SWE,7SWEO00095,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00095,1,0
+18,SWE,7SWEO00195,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00195,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+18,SWE,7SWEV00045,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00045,1,0
+18,SWE,7SWEV00253,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00253,1,0
