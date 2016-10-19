@@ -1,0 +1,41 @@
+/*
+ * "8" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+19,FWD,8FWDO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,FWD,8FWDO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+19,FWD,8FWDV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,FWD,8FWDV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,FWD,8FWDV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+19,FWE,8FWEO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,FWE,8FWEO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+19,FWE,8FWEV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,FWE,8FWEV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,FWE,8FWEV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+19,SWD,8SWDO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,SWD,8SWDO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+19,SWD,8SWDV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,SWD,8SWDV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,SWD,8SWDV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+19,SWE,8SWEO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,SWE,8SWEO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+19,SWE,8SWEV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,SWE,8SWEV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,SWE,8SWEV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0

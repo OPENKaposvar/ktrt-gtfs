@@ -75,3 +75,23 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 18,SWE,7SWEO00195,"Helyi autóbusz-állomás és Kaposszentjakab",0,SH7O00195,1,0
 18,SWE,7SWEV00045,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00045,1,0
 18,SWE,7SWEV00253,"Helyi autóbusz-állomás és Kaposszentjakab",1,SH7V00253,1,0
+19,FWD,8FWDO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,FWD,8FWDO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+19,FWD,8FWDV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,FWD,8FWDV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,FWD,8FWDV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
+19,FWE,8FWEO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,FWE,8FWEO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+19,FWE,8FWEV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,FWE,8FWEV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,FWE,8FWEV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
+19,SWD,8SWDO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,SWD,8SWDO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+19,SWD,8SWDV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,SWD,8SWDV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,SWD,8SWDV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
+19,SWE,8SWEO00099,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00099,1,0
+19,SWE,8SWEO00149,"Helyi autóbusz-állomás és Toponár forduló",0,SH8O00149,1,0
+19,SWE,8SWEV00048,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00048,1,0
+19,SWE,8SWEV00150,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00150,1,0
+19,SWE,8SWEV00176,"Helyi autóbusz-állomás és Toponár forduló",1,SH8V00176,1,0
