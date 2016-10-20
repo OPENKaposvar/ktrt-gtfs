@@ -103,3 +103,19 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 20,SWD,8BSWDV00069,"Helyi autóbusz-állomás és Kaposvári Egyetem",1,SH8BV00069,1,0
 20,SWE,8BSWEO00068,"Helyi autóbusz-állomás és Kaposvári Egyetem",0,SH8BO00068,1,0
 20,SWE,8BSWEV00069,"Helyi autóbusz-állomás és Kaposvári Egyetem",1,SH8BV00069,1,0
+21,FWD,8EFWDO00189,"Helyi autóbusz-állomás és NABI",0,SH8EO00189,1,0
+21,FWD,8EFWDO00605,"Helyi autóbusz-állomás és NABI",0,SH8EO00605,1,0
+21,FWD,8EFWDV00190,"Helyi autóbusz-állomás és NABI",1,SH8EV00190,1,0
+21,FWD,8EFWDV00606,"Helyi autóbusz-állomás és NABI",1,SH8EV00606,1,0
+21,FWE,8EFWEO00189,"Helyi autóbusz-állomás és NABI",0,SH8EO00189,1,0
+21,FWE,8EFWEO00605,"Helyi autóbusz-állomás és NABI",0,SH8EO00605,1,0
+21,FWE,8EFWEV00190,"Helyi autóbusz-állomás és NABI",1,SH8EV00190,1,0
+21,FWE,8EFWEV00606,"Helyi autóbusz-állomás és NABI",1,SH8EV00606,1,0
+21,SWD,8ESWDO00189,"Helyi autóbusz-állomás és NABI",0,SH8EO00189,1,0
+21,SWD,8ESWDO00605,"Helyi autóbusz-állomás és NABI",0,SH8EO00605,1,0
+21,SWD,8ESWDV00190,"Helyi autóbusz-állomás és NABI",1,SH8EV00190,1,0
+21,SWD,8ESWDV00606,"Helyi autóbusz-állomás és NABI",1,SH8EV00606,1,0
+21,SWE,8ESWEO00189,"Helyi autóbusz-állomás és NABI",0,SH8EO00189,1,0
+21,SWE,8ESWEO00605,"Helyi autóbusz-állomás és NABI",0,SH8EO00605,1,0
+21,SWE,8ESWEV00190,"Helyi autóbusz-állomás és NABI",1,SH8EV00190,1,0
+21,SWE,8ESWEV00606,"Helyi autóbusz-állomás és NABI",1,SH8EV00606,1,0
