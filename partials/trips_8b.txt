@@ -1,0 +1,29 @@
+/*
+ * "8B" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+20,FWD,8BFWDO00068,"Helyi autóbusz-állomás és Kaposvári Egyetem",0,SH8BO00068,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+20,FWD,8BFWDV00069,"Helyi autóbusz-állomás és Kaposvári Egyetem",1,SH8BV00069,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+20,FWE,8BFWEO00068,"Helyi autóbusz-állomás és Kaposvári Egyetem",0,SH8BO00068,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+20,FWE,8BFWEV00069,"Helyi autóbusz-állomás és Kaposvári Egyetem",1,SH8BV00069,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+20,SWD,8BSWDO00068,"Helyi autóbusz-állomás és Kaposvári Egyetem",0,SH8BO00068,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+20,SWD,8BSWDV00069,"Helyi autóbusz-állomás és Kaposvári Egyetem",1,SH8BV00069,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+20,SWE,8BSWEO00068,"Helyi autóbusz-állomás és Kaposvári Egyetem",0,SH8BO00068,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+20,SWE,8BSWEV00069,"Helyi autóbusz-állomás és Kaposvári Egyetem",1,SH8BV00069,1,0
