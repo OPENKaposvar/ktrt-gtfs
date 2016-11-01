@@ -1,0 +1,29 @@
+/*
+ * "8Y" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járat
+22,FWD,8YFWDO00072,"Helyi autóbusz-állomás és Videoton",0,SH8YO00072,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+22,FWD,8YFWDV00073,"Helyi autóbusz-állomás és Videoton",0,SH8YV00073,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+22,FWE,8YFWEO00072,"Helyi autóbusz-állomás és Videoton",0,SH8YO00072,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+22,FWE,8YFWEV00073,"Helyi autóbusz-állomás és Videoton",0,SH8YV00073,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+22,SWD,8YSWDO00072,"Helyi autóbusz-állomás és Videoton",0,SH8YO00072,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+22,SWD,8YSWDV00073,"Helyi autóbusz-állomás és Videoton",0,SH8YV00073,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+22,SWE,8YSWEO00072,"Helyi autóbusz-állomás és Videoton",0,SH8YO00072,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+22,SWE,8YSWEV00073,"Helyi autóbusz-állomás és Videoton",0,SH8YV00073,1,0
