@@ -15,6 +15,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 2,SWD,10SWDV00206,"Helyi autóbusz-állomás és Laktanya",1,SH10V00206,1,0
 2,SWE,10SWEO00205,"Helyi autóbusz-állomás és Laktanya",0,SH10O00205,1,0
 2,SWE,10SWEV00206,"Helyi autóbusz-állomás és Laktanya",1,SH10V00206,1,0
+3,FWD,11FWDO00026,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11O00026,1,0
+3,FWD,11FWDV00057,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11V00057,1,0
+3,FWE,11FWEO00026,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11O00026,1,0
+3,FWE,11FWEV00057,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11V00057,1,0
+3,SWD,11SWDO00026,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11O00026,1,0
+3,SWD,1SWDV00057,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11V00057,1,0
+3,SWE,11SWEO00026,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11O00026,1,0
+3,SWE,11SWEV00057,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11V00057,1,0
 13,FWD,3FWDO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
 13,FWD,3FWDV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
 13,FWE,3FWEO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
