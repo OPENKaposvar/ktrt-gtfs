@@ -5,25 +5,25 @@
  */
 
 // Őszi/téli menetrend, oda irányú járat
-2,FWD,10FWDO00205,"Helyi autóbusz-állomás és Laktanya",0,SH10O00205,1,0
+2,FWD,10FWDO00205,"Helyi autóbusz-állomás - Laktanya",0,SH10O00205,1,0
 
 // Őszi/téli menetrend, vissza irányú járatok, hétköznap
-2,FWD,10FWDV00206,"Helyi autóbusz-állomás és Laktanya",1,SH10V00206,1,0
+2,FWD,10FWDV00206,"Laktanya - Helyi autóbusz-állomás",1,SH10V00206,1,0
 
 // Őszi/téli menetrend, oda irányú járatok, hétvége
-2,FWE,10FWEO00205,"Helyi autóbusz-állomás és Laktanya",0,SH10O00205,1,0
+2,FWE,10FWEO00205,"Helyi autóbusz-állomás - Laktanya",0,SH10O00205,1,0
 
 // Őszi/téli menetrend, vissza irányú járatok, hétvége
-2,FWE,10FWEV00206,"Helyi autóbusz-állomás és Laktanya",1,SH10V00206,1,0
+2,FWE,10FWEV00206,"Laktanya - Helyi autóbusz-állomás",1,SH10V00206,1,0
 
 // Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
-2,SWD,10SWDO00205,"Helyi autóbusz-állomás és Laktanya",0,SH10O00205,1,0
+2,SWD,10SWDO00205,"Helyi autóbusz-állomás - Laktanya",0,SH10O00205,1,0
 
 // Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
-2,SWD,10SWDV00206,"Helyi autóbusz-állomás és Laktanya",1,SH10V00206,1,0
+2,SWD,10SWDV00206,"Laktanya - Helyi autóbusz-állomás",1,SH10V00206,1,0
 
 // Tavaszi/nyári menetrend, oda irányú járatok, hétvége
-2,SWE,10SWEO00205,"Helyi autóbusz-állomás és Laktanya",0,SH10O00205,1,0
+2,SWE,10SWEO00205,"Helyi autóbusz-állomás - Laktanya",0,SH10O00205,1,0
 
 // Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
-2,SWE,10SWEV00206,"Helyi autóbusz-állomás és Laktanya",1,SH10V00206,1,0
+2,SWE,10SWEV00206,"Laktanya - Helyi autóbusz-állomás",1,SH10V00206,1,0
