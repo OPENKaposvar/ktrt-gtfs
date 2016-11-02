@@ -5,25 +5,25 @@
  */
 
 // Őszi/téli menetrend, oda irányú járat
-23,FWD,9FWDO00210,"Helyi autóbusz-állomás és Videoton",0,SH9O00210,1,0
+23,FWD,9FWDO00210,"Helyi autóbusz-állomás - Videoton",0,SH9O00210,1,0
 
 // Őszi/téli menetrend, vissza irányú járatok, hétköznap
-23,FWD,9FWDV00211,"Helyi autóbusz-állomás és Videoton",1,SH9V00211,1,0
+23,FWD,9FWDV00211,"Videoton - Helyi autóbusz-állomás",1,SH9V00211,1,0
 
 // Őszi/téli menetrend, oda irányú járatok, hétvége
-23,FWE,9FWEO00210,"Helyi autóbusz-állomás és Videoton",0,SH9O00210,1,0
+23,FWE,9FWEO00210,"Helyi autóbusz-állomás - Videoton",0,SH9O00210,1,0
 
 // Őszi/téli menetrend, vissza irányú járatok, hétvége
-23,FWE,9FWEV00211,"Helyi autóbusz-állomás és Videoton",1,SH9V00211,1,0
+23,FWE,9FWEV00211,"Videoton - Helyi autóbusz-állomás",1,SH9V00211,1,0
 
 // Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
-23,SWD,9SWDO00210,"Helyi autóbusz-állomás és Videoton",0,SH9O00210,1,0
+23,SWD,9SWDO00210,"Helyi autóbusz-állomás - Videoton",0,SH9O00210,1,0
 
 // Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
-23,SWD,9SWDV00211,"Helyi autóbusz-állomás és Videoton",1,SH9V00211,1,0
+23,SWD,9SWDV00211,"Videoton - Helyi autóbusz-állomás",1,SH9V00211,1,0
 
 // Tavaszi/nyári menetrend, oda irányú járatok, hétvége
-23,SWE,9SWEO00210,"Helyi autóbusz-állomás és Videoton",0,SH9O00210,1,0
+23,SWE,9SWEO00210,"Helyi autóbusz-állomás - Videoton",0,SH9O00210,1,0
 
 // Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
-23,SWE,9SWEV00211,"Helyi autóbusz-állomás és Videoton",1,SH9V00211,1,0
+23,SWE,9SWEV00211,"Videoton - Helyi autóbusz-állomás",1,SH9V00211,1,0
