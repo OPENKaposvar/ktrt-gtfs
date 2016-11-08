@@ -1,0 +1,33 @@
+/*
+ * "11Y" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+4,FWD,11YFWDO00061,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00061,1,0
+4,FWD,11YFWDO00101,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00101,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+4,FWD,11YFWDV00074,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11YV00074,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+4,FWE,11YFWEO00061,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00061,1,0
+4,FWE,11YFWEO00101,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00101,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+4,FWE,11YFWEV00074,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11YV00074,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+4,SWD,11YSWDO00061,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00061,1,0
+4,SWD,11YSWDO00101,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00101,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+4,SWD,11YSWDV00074,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11YV00074,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+4,SWE,11YSWEO00061,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00061,1,0
+4,SWE,11YSWEO00101,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11YO00101,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+4,SWE,11YSWEV00074,"Kaposfüred va. - Helyi autóbusz-állomás",1,SH11YV00074,1,0

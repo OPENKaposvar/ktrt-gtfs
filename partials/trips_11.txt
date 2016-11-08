@@ -4,7 +4,7 @@
  * (c) 2016 Csizmadia Tamás OPEN Kaposvár
  */
 
-// Őszi/téli menetrend, oda irányú járat
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
 3,FWD,11FWDO00026,"Helyi autóbusz-állomás - Kaposfüred va.",0,SH11O00026,1,0
 
 // Őszi/téli menetrend, vissza irányú járatok, hétköznap
