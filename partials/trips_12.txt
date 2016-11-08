@@ -1,0 +1,29 @@
+/*
+ * "12" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+5,FWD,12FWDO00029,"Helyi autóbusz-állomás - Sopron u.",0,SH12O00029,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+5,FWD,12FWDV00079,"Sopron u. - Helyi autóbusz-állomás",1,SH12V00079,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+5,FWE,12FWEO00029,"Helyi autóbusz-állomás - Sopron u.",0,SH12O00029,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+5,FWE,12FWEV00079,"Sopron u. - Helyi autóbusz-állomás",1,SH12V00079,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+5,SWD,12SWDO00029,"Helyi autóbusz-állomás - Sopron u.",0,SH12O00029,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+5,SWD,12SWDV00079,"Sopron u. - Helyi autóbusz-állomás",1,SH12V00079,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+5,SWE,12SWEO00029,"Helyi autóbusz-állomás - Sopron u.",0,SH12O00029,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+5,SWE,12SWEV00079,"Sopron u. - Helyi autóbusz-állomás",1,SH12V00079,1,0
