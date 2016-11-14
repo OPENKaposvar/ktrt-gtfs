@@ -1,0 +1,41 @@
+/*
+ * "14" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+7,FWD,14FWDO00008,"Helyi autóbusz-állomás - Töröcske",0,SH14O00008,1,0
+7,FWD,14FWDO00092,"Helyi autóbusz-állomás - Töröcske",0,SH14O00092,1,0
+7,FWD,14FWDO00250,"Helyi autóbusz-állomás - Töröcske",0,SH14O00250,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+7,FWD,14FWDV00042,"Töröcske - Helyi autóbusz-állomás",1,SH14V00042,1,0
+7,FWD,14FWDV00093,"Töröcske - Helyi autóbusz-állomás",1,SH14V00093,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+7,FWE,14FWEO00008,"Helyi autóbusz-állomás - Töröcske",0,SH14O00008,1,0
+7,FWE,14FWEO00092,"Helyi autóbusz-állomás - Töröcske",0,SH14O00092,1,0
+7,FWE,14FWEO00250,"Helyi autóbusz-állomás - Töröcske",0,SH14O00250,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+7,FWE,14FWEV00042,"Töröcske - Helyi autóbusz-állomás",1,SH14V00042,1,0
+7,FWE,14FWEV00093,"Töröcske - Helyi autóbusz-állomás",1,SH14V00093,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+7,SWD,14SWDO00008,"Helyi autóbusz-állomás - Töröcske",0,SH14O00008,1,0
+7,SWD,14SWDO00092,"Helyi autóbusz-állomás - Töröcske",0,SH14O00092,1,0
+7,SWD,14SWDO00250,"Helyi autóbusz-állomás - Töröcske",0,SH14O00250,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+7,SWD,14SWDV00042,"Töröcske - Helyi autóbusz-állomás",1,SH14V00042,1,0
+7,SWD,14SWDV00093,"Töröcske - Helyi autóbusz-állomás",1,SH14V00093,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+7,SWE,14SWEO00008,"Helyi autóbusz-állomás - Töröcske",0,SH14O00008,1,0
+7,SWE,14SWEO00092,"Helyi autóbusz-állomás - Töröcske",0,SH14O00092,1,0
+7,SWE,14SWEO00250,"Helyi autóbusz-állomás - Töröcske",0,SH14O00250,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+7,SWE,14SWEV00042,"Töröcske - Helyi autóbusz-állomás",1,SH14V00042,1,0
+7,SWE,14SWEV00093,"Töröcske - Helyi autóbusz-állomás",1,SH14V00093,1,0
