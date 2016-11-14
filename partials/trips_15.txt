@@ -1,0 +1,29 @@
+/*
+ * "15" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+8,FWD,15FWDO00012,"Helyi autóbusz-állomás - Lonkahegy",0,SH15O00012,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+8,FWD,15FWDV00043,"Lonkahegy - Helyi autóbusz-állomás",1,SH15V00043,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+8,FWE,15FWEO00012,"Helyi autóbusz-állomás - Lonkahegy",0,SH15O00012,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+8,FWE,15FWEV00043,"Lonkahegy - Helyi autóbusz-állomás",1,SH15V00043,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+8,SWD,15SWDO00012,"Helyi autóbusz-állomás - Lonkahegy",0,SH15O00012,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+8,SWD,15SWDV00043,"Lonkahegy - Helyi autóbusz-állomás",1,SH15V00043,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+8,SWE,15SWEO00012,"Helyi autóbusz-állomás - Lonkahegy",0,SH15O00012,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+8,SWE,15SWEV00043,"Lonkahegy - Helyi autóbusz-állomás",1,SH15V00043,1,0
