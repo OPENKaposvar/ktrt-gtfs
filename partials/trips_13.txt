@@ -1,0 +1,29 @@
+/*
+ * "13" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+6,FWD,13FWDO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+6,FWD,13FWDV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+6,FWE,13FWEO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+6,FWE,13FWEV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+6,SWD,13SWDO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+6,SWD,13SWDV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+6,SWE,13SWEO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+6,SWE,13SWEV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0

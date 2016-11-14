@@ -43,6 +43,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 5,SWD,12SWDV00079,"Sopron u. - Helyi autóbusz-állomás",1,SH12V00079,1,0
 5,SWE,12SWEO00029,"Helyi autóbusz-állomás - Sopron u.",0,SH12O00029,1,0
 5,SWE,12SWEV00079,"Sopron u. - Helyi autóbusz-állomás",1,SH12V00079,1,0
+6,FWD,13FWDO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+6,FWD,13FWDV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
+6,FWE,13FWEO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+6,FWE,13FWEV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
+6,SWD,13SWDO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+6,SWD,13SWDV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
+6,SWE,13SWEO00201,"Helyi autóbusz-állomás - Mátyás K. u.",0,SH13O00201,1,0
+6,SWE,13SWEV00200,"Mátyás K. u. - Helyi autóbusz-állomás",1,SH13V00200,1,0
 13,FWD,3FWDO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
 13,FWD,3FWDV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
 13,FWE,3FWEO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
