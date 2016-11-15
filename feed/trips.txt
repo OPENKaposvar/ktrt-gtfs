@@ -79,6 +79,22 @@ route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_acces
 8,SWD,15SWDV00043,"Lonkahegy - Helyi autóbusz-állomás",1,SH15V00043,1,0
 8,SWE,15SWEO00012,"Helyi autóbusz-állomás - Lonkahegy",0,SH15O00012,1,0
 8,SWE,15SWEV00043,"Lonkahegy - Helyi autóbusz-állomás",1,SH15V00043,1,0
+10,FWD,20FWDO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,FWD,20FWDO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+10,FWD,20FWDV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,FWD,20FWDV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
+10,FWE,20FWEO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,FWE,20FWEO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+10,FWE,20FWEV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,FWE,20FWEV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
+10,SWD,20SWDO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,SWD,20SWDO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+10,SWD,20SWDV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,SWD,20SWDV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
+10,SWE,20SWEO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,SWE,20SWEO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+10,SWE,20SWEV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,SWE,20SWEV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
 13,FWD,3FWDO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0
 13,FWD,3FWDV00039,"Egyenesi u. - Helyi autóbusz-állomás",1,SH3V00039,1,0
 13,FWE,3FWEO00010,"Helyi autóbusz-állomás - Egyenesi u.",0,SH3O00010,1,0

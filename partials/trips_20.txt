@@ -1,0 +1,37 @@
+/*
+ * "20" járat útvonalai
+ *
+ * (c) 2016 Csizmadia Tamás OPEN Kaposvár
+ */
+
+// Őszi/téli menetrend, oda irányú járatok, hétköznap
+10,FWD,20FWDO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,FWD,20FWDO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétköznap
+10,FWD,20FWDV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,FWD,20FWDV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
+
+// Őszi/téli menetrend, oda irányú járatok, hétvége
+10,FWE,20FWEO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,FWE,20FWEO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+
+// Őszi/téli menetrend, vissza irányú járatok, hétvége
+10,FWE,20FWEV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,FWE,20FWEV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétköznap
+10,SWD,20SWDO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,SWD,20SWDO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétköznap
+10,SWD,20SWDV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,SWD,20SWDV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
+
+// Tavaszi/nyári menetrend, oda irányú járatok, hétvége
+10,SWE,20SWEO00030,"Helyi autóbusz-állomás - Videoton",0,SH20O00030,1,0
+10,SWE,20SWEO00251,"Helyi autóbusz-állomás - Videoton",0,SH20O00251,1,0
+
+// Tavaszi/nyári menetrend, vissza irányú járatok, hétvége
+10,SWE,20SWEV00080,"Videoton - Helyi autóbusz-állomás",1,SH20V00080,1,0
+10,SWE,20SWEV00252,"Videoton - Helyi autóbusz-állomás",1,SH20V00252,1,0
